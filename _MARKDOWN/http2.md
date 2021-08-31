@@ -158,7 +158,7 @@
 
 </span>
 
-</span>    curl --http2 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --http2 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="cc24d5da2682431087b0f42db9bddd1e">
 

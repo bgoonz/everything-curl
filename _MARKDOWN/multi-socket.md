@@ -214,7 +214,7 @@
 
 </span>
 
-</span>    int socket_callback(CURL *easy,      /* easy handle */                    curl_socket_t s, /* socket */                    int what,        /* what to wait for */                    void *userp,     /* private callback pointer */                    void *socketp)   /* private socket pointer */{   /* told about the socket 's' */}​/* set the callback in the multi handle */curl_multi_setopt(multi_handle, CURLMOPT_SOCKETFUNCTION, socket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> int socket_callback(CURL _easy, /_ easy handle _/ curl_socket_t s, /_ socket _/ int what, /_ what to wait for */ void *userp, /_ private callback pointer _/ void _socketp) /_ private socket pointer _/{ /_ told about the socket 's' _/}​/_ set the callback in the multi handle \*/curl_multi_setopt(multi_handle, CURLMOPT_SOCKETFUNCTION, socket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8725ac2ba9e34228adbd08fc628e32f8">
 
@@ -236,7 +236,7 @@
 
 </span>
 
-</span>    int running_handles;ret = curl_multi_socket_action(multi_handle,                               sockfd, /* the socket with activity */                               ev_bitmask, /* the specific activity */                               &running_handles);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> int running_handles;ret = curl_multi_socket_action(multi_handle, sockfd, /_ the socket with activity _/ ev_bitmask, /_ the specific activity _/ &running_handles);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="70e9a2ef7a9c41c38ae8d676f435b288">
 
@@ -280,7 +280,7 @@
 
 </span>
 
-</span>    int timer_callback(multi_handle,   /* multi handle */                   timeout_ms,     /* milliseconds to wait */                   userp)          /* private callback pointer */{  /* the new time-out value to wait for is in 'timeout_ms' */}​/* set the callback in the multi handle */curl_multi_setopt(multi_handle, CURLMOPT_TIMERFUNCTION, timer_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> int timer_callback(multi_handle, /_ multi handle _/ timeout_ms, /_ milliseconds to wait _/ userp) /_ private callback pointer _/{ /_ the new time-out value to wait for is in 'timeout_ms' _/}​/_ set the callback in the multi handle _/curl_multi_setopt(multi_handle, CURLMOPT_TIMERFUNCTION, timer_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5a2d0dcdf6c446bda276c822963de20a">
 
@@ -298,7 +298,7 @@
 
 </span>
 
-</span>    curl_multi_socket_action(multi, CURL_SOCKET_TIMEOUT, 0, &running);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_multi_socket_action(multi, CURL_SOCKET_TIMEOUT, 0, &running);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="47638ba5fd37495e84ae4cf0036478ac">
 
@@ -336,7 +336,7 @@
 
 </span>
 
-</span>    /* all easy handles and callbacks are setup */​curl_multi_socket_action(multi, CURL_SOCKET_TIMEOUT, 0, &running);​/* now the callbacks should have been called and we have sockets to wait for   and possibly a timeout, too. Make the event system do its magic */​event_base_dispatch(event_base); /* libevent2 has this API */​/* at this point we have exited the event loop */<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> /_ all easy handles and callbacks are setup _/​curl_multi_socket_action(multi, CURL_SOCKET_TIMEOUT, 0, &running);​/_ now the callbacks should have been called and we have sockets to wait for and possibly a timeout, too. Make the event system do its magic _/​event_base_dispatch(event_base); /_ libevent2 has this API _/​/_ at this point we have exited the event loop _/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="b61e4ca3080c4c02bc5dc0950888d9c3">
 

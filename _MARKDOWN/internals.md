@@ -314,7 +314,7 @@
 
 </span>
 
-</span>    if(conn->handler->setup_connection)  result = conn->handler->setup_connection(conn);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> if(conn->handler->setup_connection) result = conn->handler->setup_connection(conn);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="449cd99fb04149feb66d775e51d2f599">
 
@@ -332,7 +332,7 @@
 
 </span>
 
-</span>    if(conn->handler->connect_it)  result = conn->handler->connect_it(conn, &done);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> if(conn->handler->connect_it) result = conn->handler->connect_it(conn, &done);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="5459c6a0983f483790daafe82555eb8b">
 
@@ -350,7 +350,7 @@
 
 </span>
 
-</span>    result = conn->handler->do_it(conn, &done);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> result = conn->handler->do_it(conn, &done);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="7f404d8d68364e85ba7474bda491381a">
 
@@ -368,7 +368,7 @@
 
 </span>
 
-</span>    result = conn->handler->done(conn);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> result = conn->handler->done(conn);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="f941ade7879c475aaaf4b0fe3ee83c18">
 
@@ -386,7 +386,7 @@
 
 </span>
 
-</span>    result = conn->handler->disconnect(conn, dead_connection);<a href="bindings.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> result = conn->handler->disconnect(conn, dead_connection);<a href="bindings.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

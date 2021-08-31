@@ -60,7 +60,7 @@
 
 </span>
 
-</span>    easy = curl_easy_init();curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> easy = curl_easy_init();curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="871383ac47aa481d85f35ffa877329cf">
 
@@ -72,7 +72,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_HTTPGET, 1L);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_HTTPGET, 1L);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="1caa475410e2454cb0d05a5134248404">
 
@@ -104,7 +104,7 @@
 
 </span>
 
-</span>    easy = curl_easy_init();curl_easy_setopt(easy, CURLOPT_HEADER, 1L);curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> easy = curl_easy_init();curl_easy_setopt(easy, CURLOPT_HEADER, 1L);curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="418104d89fde43a49f87c202ddcd266c">
 
@@ -144,7 +144,7 @@
 
 </span>
 
-</span>    easy = curl_easy_init();FILE *file = fopen("headers", "wb");curl_easy_setopt(easy, CURLOPT_HEADERDATA, file);curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);fclose(file);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> easy = curl_easy_init();FILE \*file = fopen("headers", "wb");curl_easy_setopt(easy, CURLOPT_HEADERDATA, file);curl_easy_setopt(easy, CURLOPT_URL, "http://example.com/");curl_easy_perform(easy);fclose(file);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="67c1a54fff984564bba7468dcaf5fd11">
 
@@ -152,7 +152,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_VERBOSE, 1L);<a href="cookies.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl_easy_setopt(easy, CURLOPT_VERBOSE, 1L);<a href="cookies.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

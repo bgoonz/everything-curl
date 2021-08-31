@@ -32,7 +32,7 @@
 
 </span>
 
-</span>    curl mqtt://example.com/home/bedroom/temp<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl mqtt://example.com/home/bedroom/temp<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c57386aa40d74903986d4df8a1a3c6ad">
 
@@ -40,7 +40,7 @@
 
 </span>
 
-</span>    curl -d 75 mqtt://example.com/home/bedroom/dimmer<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -d 75 mqtt://example.com/home/bedroom/dimmer<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="6602bbb617244738bd0f5367e739fb77">
 

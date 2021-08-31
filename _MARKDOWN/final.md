@@ -4156,7 +4156,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="d9bad531f0284bdfacad96bf302f4ada"><span data-offset-key="d9bad531f0284bdfacad96bf302f4ada:0">CURLINFO_CERTINFO</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ffefe6fa80234e73936fbeefa18540e3"><span data-offset-key="ffefe6fa80234e73936fbeefa18540e3:0">struct curl_slist *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ffefe6fa80234e73936fbeefa18540e3"><span data-offset-key="ffefe6fa80234e73936fbeefa18540e3:0">struct curl_slist \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ce271143d71c4f968e455ea7c3cde6fb"><span data-offset-key="ce271143d71c4f968e455ea7c3cde6fb:0">Certificate chain</span></span></span>
 
@@ -4192,25 +4192,25 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="659251cb88fd481e898796f640a8fe7a"><span data-offset-key="659251cb88fd481e898796f640a8fe7a:0">CURLINFO_CONTENT_TYPE</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="bde94904aabe44f4953ed4a51e4850e8"><span data-offset-key="bde94904aabe44f4953ed4a51e4850e8:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="bde94904aabe44f4953ed4a51e4850e8"><span data-offset-key="bde94904aabe44f4953ed4a51e4850e8:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="c6d13eec983a4c8f879fc786bd3351cb"><span data-offset-key="c6d13eec983a4c8f879fc786bd3351cb:0">Content type from the Content-Type header</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="fb06277f5f7744e6a20c82b88096c07a"><span data-offset-key="fb06277f5f7744e6a20c82b88096c07a:0">CURLINFO_COOKIELIST</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="2f0257ee77ea47f9a370a2a74ed6b9d5"><span data-offset-key="2f0257ee77ea47f9a370a2a74ed6b9d5:0">struct curl_slist *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="2f0257ee77ea47f9a370a2a74ed6b9d5"><span data-offset-key="2f0257ee77ea47f9a370a2a74ed6b9d5:0">struct curl_slist \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="2a4c59e42faf4cb0bfb1cf8abe591124"><span data-offset-key="2a4c59e42faf4cb0bfb1cf8abe591124:0">List of all known cookies</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="4bda24ae4d534e78b6ba08b5da25dfcb"><span data-offset-key="4bda24ae4d534e78b6ba08b5da25dfcb:0">CURLINFO_EFFECTIVE_METHOD</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6012f1ab065149a3b9be987be4e1a3cb"><span data-offset-key="6012f1ab065149a3b9be987be4e1a3cb:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6012f1ab065149a3b9be987be4e1a3cb"><span data-offset-key="6012f1ab065149a3b9be987be4e1a3cb:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="87b24395e40e4283bbfa875aea49a98e"><span data-offset-key="87b24395e40e4283bbfa875aea49a98e:0">Last used HTTP request method</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="f7714179aa7149d599ff9640e4746ff6"><span data-offset-key="f7714179aa7149d599ff9640e4746ff6:0">CURLINFO_EFFECTIVE_URL</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="1444fb6a754c4e9a85e82f483b2e89a4"><span data-offset-key="1444fb6a754c4e9a85e82f483b2e89a4:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="1444fb6a754c4e9a85e82f483b2e89a4"><span data-offset-key="1444fb6a754c4e9a85e82f483b2e89a4:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e25d72a349de4170a889b170749c952d"><span data-offset-key="e25d72a349de4170a889b170749c952d:0">Last used URL</span></span></span>
 
@@ -4222,7 +4222,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="70531ec7f2e3431882e68fe09e305a1d"><span data-offset-key="70531ec7f2e3431882e68fe09e305a1d:0">CURLINFO_FTP_ENTRY_PATH</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="465456e7803e4fde93370dd63bdc5b48"><span data-offset-key="465456e7803e4fde93370dd63bdc5b48:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="465456e7803e4fde93370dd63bdc5b48"><span data-offset-key="465456e7803e4fde93370dd63bdc5b48:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="32cfc4cb458e4b6a9e25ee450a6829ca"><span data-offset-key="32cfc4cb458e4b6a9e25ee450a6829ca:0">The entry path after logging in to an FTP server</span></span></span>
 
@@ -4258,7 +4258,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="d358509fd0934aa2aa4a6a387e6789fb"><span data-offset-key="d358509fd0934aa2aa4a6a387e6789fb:0">CURLINFO_LOCAL_IP</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e9e64397bc5e488ba891ae5ae7309e6f"><span data-offset-key="e9e64397bc5e488ba891ae5ae7309e6f:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e9e64397bc5e488ba891ae5ae7309e6f"><span data-offset-key="e9e64397bc5e488ba891ae5ae7309e6f:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="048a84f0dddb4a55802071f32bddf870"><span data-offset-key="048a84f0dddb4a55802071f32bddf870:0">Local-end IP address of last connection</span></span></span>
 
@@ -4306,7 +4306,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="2194df1e218640ce961a2d6038746dfc"><span data-offset-key="2194df1e218640ce961a2d6038746dfc:0">CURLINFO_PRIMARY_IP</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e70936f014594802a1c4d0e72d57a06b"><span data-offset-key="e70936f014594802a1c4d0e72d57a06b:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e70936f014594802a1c4d0e72d57a06b"><span data-offset-key="e70936f014594802a1c4d0e72d57a06b:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="a8dc8abb0310447c901fbdabe469bd54"><span data-offset-key="a8dc8abb0310447c901fbdabe469bd54:0">IP address of the last connection</span></span></span>
 
@@ -4318,7 +4318,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="3790bf2a648f4f548296cdd330a56189"><span data-offset-key="3790bf2a648f4f548296cdd330a56189:0">CURLINFO_PRIVATE</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="17529eaebc9444e79e0baf10402e65c5"><span data-offset-key="17529eaebc9444e79e0baf10402e65c5:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="17529eaebc9444e79e0baf10402e65c5"><span data-offset-key="17529eaebc9444e79e0baf10402e65c5:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="c6adf10961944c28961e4cab15e6a409"><span data-offset-key="c6adf10961944c28961e4cab15e6a409:0">User’s private data pointer</span></span></span>
 
@@ -4366,7 +4366,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="a02ac0befd654927b55a3145a8bd1ade"><span data-offset-key="a02ac0befd654927b55a3145a8bd1ade:0">CURLINFO_REDIRECT_URL</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="371330bbb0684d89998015363311d7a0"><span data-offset-key="371330bbb0684d89998015363311d7a0:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="371330bbb0684d89998015363311d7a0"><span data-offset-key="371330bbb0684d89998015363311d7a0:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="273de3bfefc643f897266a0261f59f80"><span data-offset-key="273de3bfefc643f897266a0261f59f80:0">URL a redirect would take you to, had you enabled redirects</span></span></span>
 
@@ -4408,13 +4408,13 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="20ca2c6159484024ab656607a1dbdebe"><span data-offset-key="20ca2c6159484024ab656607a1dbdebe:0">CURLINFO_RTSP_SESSION_ID</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="aa0f8570d2734a59a763c32f3104ebb7"><span data-offset-key="aa0f8570d2734a59a763c32f3104ebb7:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="aa0f8570d2734a59a763c32f3104ebb7"><span data-offset-key="aa0f8570d2734a59a763c32f3104ebb7:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="190511336be84bf1a47baa042c85ae45"><span data-offset-key="190511336be84bf1a47baa042c85ae45:0">RTSP session ID</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="88d66eb3caad45be9d84c66125233a7e"><span data-offset-key="88d66eb3caad45be9d84c66125233a7e:0">CURLINFO_SCHEME</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="90ea82af3c794a55a8892fd039580688"><span data-offset-key="90ea82af3c794a55a8892fd039580688:0">char *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="90ea82af3c794a55a8892fd039580688"><span data-offset-key="90ea82af3c794a55a8892fd039580688:0">char \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="aa8db0124fd34076ac4a8e22afbd728a"><span data-offset-key="aa8db0124fd34076ac4a8e22afbd728a:0">The scheme used for the connection</span></span></span>
 
@@ -4444,7 +4444,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="7f39fb3dd56d4903a56c6ba31fa6e324"><span data-offset-key="7f39fb3dd56d4903a56c6ba31fa6e324:0">CURLINFO_SSL_ENGINES</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6ff299ab392f4309822f396765f84f84"><span data-offset-key="6ff299ab392f4309822f396765f84f84:0">struct curl_slist *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6ff299ab392f4309822f396765f84f84"><span data-offset-key="6ff299ab392f4309822f396765f84f84:0">struct curl_slist \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ca7b4285ac2a483db0aa9c4806c3c6a0"><span data-offset-key="ca7b4285ac2a483db0aa9c4806c3c6a0:0">A list of OpenSSL crypto engines</span></span></span>
 
@@ -4468,7 +4468,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="044ae5d5898e43faaea004d4936a7188"><span data-offset-key="044ae5d5898e43faaea004d4936a7188:0">CURLINFO_TLS_SSL_PTR</span></span></span>
 
-<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="723c45693ba24f17a575b2904b3d30d2"><span data-offset-key="723c45693ba24f17a575b2904b3d30d2:0">struct curl_slist *</span></span></span>
+<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="723c45693ba24f17a575b2904b3d30d2"><span data-offset-key="723c45693ba24f17a575b2904b3d30d2:0">struct curl_slist \*</span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="1cb32ddf1911480e8c51900b5121b990"><span data-offset-key="1cb32ddf1911480e8c51900b5121b990:0">TLS session info that can be used for further processing</span></span></span>
 

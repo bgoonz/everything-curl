@@ -254,7 +254,7 @@
 
 </span>
 
-</span>    A: Because it messes up the order in which people normally read text.Q: Why is top-posting such a bad thing?A: Top-posting.Q: What is the most annoying thing in e-mail?<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> A: Because it messes up the order in which people normally read text.Q: Why is top-posting such a bad thing?A: Top-posting.Q: What is the most annoying thing in e-mail?<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="568204cf5c7444ca87172ab91a4d0bb8">
 

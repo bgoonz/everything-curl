@@ -66,9 +66,9 @@
 
 </span>
 
-</span>    #include <stdio.h>
+</span> #include <stdio.h>
 
-#include <curl/curl.h>​int main(void){  CURL *curl;  CURLcode res;​  curl = curl_easy_init();  if(curl) {    curl_easy_setopt(curl, CURLOPT_URL, "http://example.com/");​    /* Perform the request, res will get the return code */    res = curl_easy_perform(curl);    /* Check for errors */    if(res != CURLE_OK)      fprintf(stderr, "curl_easy_perform() failed: %s\n",              curl_easy_strerror(res));​    /* always cleanup */    curl_easy_cleanup(curl);  }  return 0;}<a href="../examples.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+#include <curl/curl.h>​int main(void){ CURL _curl; CURLcode res;​ curl = curl_easy_init(); if(curl) { curl_easy_setopt(curl, CURLOPT_URL, "http://example.com/");​ /_ Perform the request, res will get the return code _/ res = curl_easy_perform(curl); /_ Check for errors _/ if(res != CURLE_OK) fprintf(stderr, "curl_easy_perform() failed: %s\n", curl_easy_strerror(res));​ /_ always cleanup \*/ curl_easy_cleanup(curl); } return 0;}<a href="../examples.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

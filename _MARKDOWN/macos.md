@@ -46,7 +46,7 @@
 
 </span>
 
-</span>    brew install curl<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> brew install curl<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="22c0ef235d6e450e9935619fae459deb">
 

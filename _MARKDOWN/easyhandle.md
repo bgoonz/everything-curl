@@ -112,7 +112,7 @@
 
 </span>
 
-</span>    CURL *easy_handle = curl_easy_init();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> CURL \*easy_handle = curl_easy_init();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a25aac2bb8e64ad3b5e7429de0009a27">
 
@@ -120,7 +120,7 @@
 
 </span>
 
-</span>    /* set URL to operate on */res = curl_easy_setopt(easy_handle, CURLOPT_URL, "http://example.com/");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> /_ set URL to operate on _/res = curl_easy_setopt(easy_handle, CURLOPT_URL, "http://example.com/");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="2fe99edec715435a8e141b0c17e081cf">
 

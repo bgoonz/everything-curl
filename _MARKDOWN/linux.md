@@ -66,7 +66,7 @@
 
 </span>
 
-</span>    apt install curl<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> apt install curl<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="92a926e3313e45fa81c244bd9331f228">
 
@@ -84,7 +84,7 @@
 
 </span>
 
-</span>    apt install libcurl4-openssl-dev<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> apt install libcurl4-openssl-dev<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="4b1cca6ad8f44286abac2fab0eeded55">
 
@@ -92,7 +92,7 @@
 
 </span>
 
-</span>    apt install libcurl4-nss-dev<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> apt install libcurl4-nss-dev<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e858730b86e54887b9a0f6e0b85d7862">
 
@@ -100,7 +100,7 @@
 
 </span>
 
-</span>    apt install libcurl4-gnutls-dev<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> apt install libcurl4-gnutls-dev<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="a319e894f41d4e388e9bf0150622e16c">
 
@@ -122,7 +122,7 @@
 
 </span>
 
-</span>    yum install curl<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> yum install curl<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b061946795f34b48b19df68d6d59ed66">
 
@@ -130,7 +130,7 @@
 
 </span>
 
-</span>    yum install libcurl-devel<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> yum install libcurl-devel<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="b4f844d711dd4aea816a6d39524cc7e7">
 
@@ -178,7 +178,7 @@
 
 </span>
 
-</span>    nix-env -i curl<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> nix-env -i curl<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="730476474069464ba012acb46a8f0e8b">
 
@@ -210,7 +210,7 @@
 
 </span>
 
-</span>    pacman -S curl<a href="../get.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> pacman -S curl<a href="../get.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

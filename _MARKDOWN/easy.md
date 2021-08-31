@@ -30,7 +30,7 @@
 
 </span>
 
-</span>    res = curl_easy_perform( easy_handle );<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> res = curl_easy_perform( easy_handle );<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="51103aa72dcf40d2ae59cf65285493b6">
 

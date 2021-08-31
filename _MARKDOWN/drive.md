@@ -120,7 +120,7 @@
 
 </span>
 
-</span>1.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>1. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="83da65385c29462aaed11c83e3862180">
 
@@ -128,7 +128,7 @@
 
 </span>
 
-</span>2.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>2. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="08fb035a24c4407394c7324b80c12cd8">
 
@@ -136,7 +136,7 @@
 
 </span>
 
-</span>3.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>3. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c1837214b29745d9a5f77e1e8efc414b">
 

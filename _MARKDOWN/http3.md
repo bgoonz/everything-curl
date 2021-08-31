@@ -230,7 +230,7 @@
 
 </span>
 
-</span>    curl --http3 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --http3 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="3618abf250d3400483e0e9d7dbd6013a">
 

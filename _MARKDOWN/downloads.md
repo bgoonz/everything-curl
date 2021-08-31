@@ -68,7 +68,7 @@
 
 </span>
 
-</span>    curl http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c71077c7ff8a491796e86aa404993506">
 
@@ -190,7 +190,7 @@
 
 </span>
 
-</span>    curl -o output.html http://example.com/curl -o /tmp/index.html http://example.com/curl http://example.com -o ../../folder/savethis.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -o output.html http://example.com/curl -o /tmp/index.html http://example.com/curl http://example.com -o ../../folder/savethis.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="bebb0aa9616e463f8f66e13c9e14dc4f">
 
@@ -198,7 +198,7 @@
 
 </span>
 
-</span>    curl -o file.txt ftp://example.com/path/to/file-name.ext<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -o file.txt ftp://example.com/path/to/file-name.ext<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a4db2588a3e645f29d4bdb8fd9cd6c31">
 
@@ -244,7 +244,7 @@
 
 </span>
 
-</span>    curl -o file.html http://example.com/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -o file.html http://example.com/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="341d40fdf3af4f8c8a3ec5b1c2a4189d">
 
@@ -252,7 +252,7 @@
 
 </span>
 
-</span>    curl -O http://example.com/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -O http://example.com/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="adcfb37bc12e444aab6286301bde3fd9">
 
@@ -314,7 +314,7 @@
 
 </span>
 
-</span>1.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>1. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="09b38a1dd3f0499fa2cad324df8557bc">
 
@@ -322,7 +322,7 @@
 
 </span>
 
-</span>2.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>2. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="98c5708b3a094048b80981500ab66284">
 
@@ -330,7 +330,7 @@
 
 </span>
 
-</span>3.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>3. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c995c2a3b4a644618d43459cfadf197a">
 
@@ -368,7 +368,7 @@
 
 </span>
 
-</span>    curl https://example.com/ -o storage.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl https://example.com/ -o storage.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a2e42bb8a6d047fb9437131cacef3d69">
 
@@ -432,7 +432,7 @@
 
 </span>
 
-</span>    curl --compressed http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --compressed http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="523aed1826c743efab7b82a123c67b65">
 
@@ -462,7 +462,7 @@
 
 </span>
 
-</span>    curl --tr-encoding http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --tr-encoding http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="de21c8f04ba44c83a47b1d839658e6ee">
 
@@ -494,7 +494,7 @@
 
 </span>
 
-</span>    curl http://example.com/ > example.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com/ > example.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="723cc13b2b974334848714d0ed399114">
 
@@ -502,7 +502,7 @@
 
 </span>
 
-</span>    curl http://example.com/1 http://example.com/2 > files<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com/1 http://example.com/2 > files<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="91852faa85f2420fb5733febd2cac51e">
 
@@ -518,7 +518,7 @@
 
 </span>
 
-</span>    curl http://example.com > files.html 2>errors<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl http://example.com > files.html 2>errors<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="3d4e8d4d10334c64ba935b064a5d08aa">
 
@@ -546,7 +546,7 @@
 
 </span>
 
-</span>    curl -o one.html http://example.com/1 http://example.com/2<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -o one.html http://example.com/1 http://example.com/2<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="1ed4ec0a4ca642528f89d88e55bc4a40">
 
@@ -564,7 +564,7 @@
 
 </span>
 
-</span>    curl -o 1.txt -o 2.txt http://example.com/1 http://example.com/2curl http://example.com/1 http://example.com/2 -o 1.txt -o 2.txtcurl -o 1.txt http://example.com/1 http://example.com/2 -o 2.txtcurl -o 1.txt http://example.com/1 -o 2.txt http://example.com/2<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -o 1.txt -o 2.txt http://example.com/1 http://example.com/2curl http://example.com/1 http://example.com/2 -o 1.txt -o 2.txtcurl -o 1.txt http://example.com/1 http://example.com/2 -o 2.txtcurl -o 1.txt http://example.com/1 -o 2.txt http://example.com/2<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ae1a4b10c10a496d8c7833d1c798c426">
 
@@ -576,7 +576,7 @@
 
 </span>
 
-</span>    curl -O -O http://example.com/1 http://example.com/2<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -O -O http://example.com/1 http://example.com/2<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="10d599a70f4348549817d95fc38faf87">
 
@@ -828,7 +828,7 @@
 
 </span>
 
-</span>    curl https://example.com/ --limit-rate 200K<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl https://example.com/ --limit-rate 200K<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="6990691970834fc6ba991fba3c05d9f7">
 
@@ -870,7 +870,7 @@
 
 </span>
 
-</span>    curl --max-filesize 100000 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --max-filesize 100000 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="1499e15a70cd4346844152d42143c0ba">
 
@@ -1072,7 +1072,7 @@
 
 </span>
 
-</span>    curl --continue-at 100 ftp://example.com/bigfile<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --continue-at 100 ftp://example.com/bigfile<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="4771ff6022cc4375b9ffd6f083384bce">
 
@@ -1080,7 +1080,7 @@
 
 </span>
 
-</span>    curl --continue-at - http://example.com/bigfile -O<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --continue-at - http://example.com/bigfile -O<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ec397052c118496ea94a42c23ff61b5e">
 
@@ -1088,7 +1088,7 @@
 
 </span>
 
-</span>    curl --range 100-1099 http://example.com/bigfile<a href="persist.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl --range 100-1099 http://example.com/bigfile<a href="persist.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

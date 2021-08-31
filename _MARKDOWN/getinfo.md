@@ -158,7 +158,7 @@
 
 </span>
 
-</span>    CURLcode res;char *content_type;res = curl_easy_getinfo(curl, CURLINFO_CONTENT_TYPE, &content_type);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> CURLcode res;char \*content_type;res = curl_easy_getinfo(curl, CURLINFO_CONTENT_TYPE, &content_type);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="50d7c497075345d4ba9b638709f2f1ed">
 
@@ -166,7 +166,7 @@
 
 </span>
 
-</span>    CURLcode res;long port_number;res = curl_easy_getinfo(curl, CURLINFO_LOCAL_PORT, &port_number);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> CURLcode res;long port_number;res = curl_easy_getinfo(curl, CURLINFO_LOCAL_PORT, &port_number);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="2a5dd339de644f68a2225675c4fb4973">
 
@@ -450,7 +450,7 @@
 
 <span data-key="ffefe6fa80234e73936fbeefa18540e3">
 
-<span data-offset-key="ffefe6fa80234e73936fbeefa18540e3:0">struct curl_slist *</span>
+<span data-offset-key="ffefe6fa80234e73936fbeefa18540e3:0">struct curl_slist \*</span>
 
 </span>
 
@@ -798,7 +798,7 @@
 
 <span data-key="bde94904aabe44f4953ed4a51e4850e8">
 
-<span data-offset-key="bde94904aabe44f4953ed4a51e4850e8:0">char *</span>
+<span data-offset-key="bde94904aabe44f4953ed4a51e4850e8:0">char \*</span>
 
 </span>
 
@@ -856,7 +856,7 @@
 
 <span data-key="2f0257ee77ea47f9a370a2a74ed6b9d5">
 
-<span data-offset-key="2f0257ee77ea47f9a370a2a74ed6b9d5:0">struct curl_slist *</span>
+<span data-offset-key="2f0257ee77ea47f9a370a2a74ed6b9d5:0">struct curl_slist \*</span>
 
 </span>
 
@@ -914,7 +914,7 @@
 
 <span data-key="6012f1ab065149a3b9be987be4e1a3cb">
 
-<span data-offset-key="6012f1ab065149a3b9be987be4e1a3cb:0">char *</span>
+<span data-offset-key="6012f1ab065149a3b9be987be4e1a3cb:0">char \*</span>
 
 </span>
 
@@ -972,7 +972,7 @@
 
 <span data-key="1444fb6a754c4e9a85e82f483b2e89a4">
 
-<span data-offset-key="1444fb6a754c4e9a85e82f483b2e89a4:0">char *</span>
+<span data-offset-key="1444fb6a754c4e9a85e82f483b2e89a4:0">char \*</span>
 
 </span>
 
@@ -1088,7 +1088,7 @@
 
 <span data-key="465456e7803e4fde93370dd63bdc5b48">
 
-<span data-offset-key="465456e7803e4fde93370dd63bdc5b48:0">char *</span>
+<span data-offset-key="465456e7803e4fde93370dd63bdc5b48:0">char \*</span>
 
 </span>
 
@@ -1436,7 +1436,7 @@
 
 <span data-key="e9e64397bc5e488ba891ae5ae7309e6f">
 
-<span data-offset-key="e9e64397bc5e488ba891ae5ae7309e6f:0">char *</span>
+<span data-offset-key="e9e64397bc5e488ba891ae5ae7309e6f:0">char \*</span>
 
 </span>
 
@@ -1900,7 +1900,7 @@
 
 <span data-key="e70936f014594802a1c4d0e72d57a06b">
 
-<span data-offset-key="e70936f014594802a1c4d0e72d57a06b:0">char *</span>
+<span data-offset-key="e70936f014594802a1c4d0e72d57a06b:0">char \*</span>
 
 </span>
 
@@ -2016,7 +2016,7 @@
 
 <span data-key="17529eaebc9444e79e0baf10402e65c5">
 
-<span data-offset-key="17529eaebc9444e79e0baf10402e65c5:0">char *</span>
+<span data-offset-key="17529eaebc9444e79e0baf10402e65c5:0">char \*</span>
 
 </span>
 
@@ -2488,7 +2488,7 @@
 
 <span data-key="371330bbb0684d89998015363311d7a0">
 
-<span data-offset-key="371330bbb0684d89998015363311d7a0:0">char *</span>
+<span data-offset-key="371330bbb0684d89998015363311d7a0:0">char \*</span>
 
 </span>
 
@@ -2902,7 +2902,7 @@
 
 <span data-key="aa0f8570d2734a59a763c32f3104ebb7">
 
-<span data-offset-key="aa0f8570d2734a59a763c32f3104ebb7:0">char *</span>
+<span data-offset-key="aa0f8570d2734a59a763c32f3104ebb7:0">char \*</span>
 
 </span>
 
@@ -2960,7 +2960,7 @@
 
 <span data-key="90ea82af3c794a55a8892fd039580688">
 
-<span data-offset-key="90ea82af3c794a55a8892fd039580688:0">char *</span>
+<span data-offset-key="90ea82af3c794a55a8892fd039580688:0">char \*</span>
 
 </span>
 
@@ -3250,7 +3250,7 @@
 
 <span data-key="6ff299ab392f4309822f396765f84f84">
 
-<span data-offset-key="6ff299ab392f4309822f396765f84f84:0">struct curl_slist *</span>
+<span data-offset-key="6ff299ab392f4309822f396765f84f84:0">struct curl_slist \*</span>
 
 </span>
 
@@ -3482,7 +3482,7 @@
 
 <span data-key="723c45693ba24f17a575b2904b3d30d2">
 
-<span data-offset-key="723c45693ba24f17a575b2904b3d30d2:0">struct curl_slist *</span>
+<span data-offset-key="723c45693ba24f17a575b2904b3d30d2:0">struct curl_slist \*</span>
 
 </span>
 

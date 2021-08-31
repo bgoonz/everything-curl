@@ -636,7 +636,7 @@
 
 </span>
 
-</span>    cmake -G "Unix Makefiles" .make<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> cmake -G "Unix Makefiles" .make<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="2f44788b6dbe4d3cbad3e243f52ae428">
 
@@ -644,7 +644,7 @@
 
 </span>
 
-</span>    cmake .make<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> cmake .make<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="94b0b06e7427410482026efd61c89b6e">
 
@@ -652,7 +652,7 @@
 
 </span>
 
-</span>    mkdir buildcd buildcmake ..make<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> mkdir buildcd buildcmake ..make<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="adc809ce81d040f181b3e3aae29fbd1a">
 
@@ -690,7 +690,7 @@
 
 </span>
 
-</span>    cd winbuild<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> cd winbuild<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="97a55400e8c742fa9985a5767851456e">
 
@@ -702,7 +702,7 @@
 
 </span>
 
-</span>    nname WITH_SSL=dll WITH_NGHTTP2=dll ENABLE_IPV6=yes \WITH_ZLIB=dll MACHINE=x64<a href="../build.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> nname WITH_SSL=dll WITH_NGHTTP2=dll ENABLE_IPV6=yes \WITH_ZLIB=dll MACHINE=x64<a href="../build.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

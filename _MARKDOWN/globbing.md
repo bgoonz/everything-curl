@@ -118,7 +118,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/[1-100].png"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/[1-100].png"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="3ad3067bf65943dc8ce08d1884777d87">
 
@@ -126,7 +126,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/[001-100].png"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/[001-100].png"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="bb2b5654b24c4e1487b13a5ed767a5d7">
 
@@ -134,7 +134,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/[0-100:2].png"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/[0-100:2].png"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="4b5321ea3e274d39a9720a5c89d8bad2">
 
@@ -152,7 +152,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/section[a-z].html"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/section[a-z].html"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="1d00a70b5252439c8d5cb04ca063d892">
 
@@ -170,7 +170,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/{one,two,three,alpha,beta}.html"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/{one,two,three,alpha,beta}.html"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="2330b2c1ecb24dfbbe9709e3140559eb">
 
@@ -188,7 +188,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/{Ben,Alice,Frank}-{100x100,1000x1000}.jpg"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/{Ben,Alice,Frank}-{100x100,1000x1000}.jpg"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="719aa0e904cb4b40a06baf1fd3ca9248">
 
@@ -196,7 +196,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/chess-[0-7]x[0-7].jpg"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/chess-[0-7]x[0-7].jpg"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7c16cfb985de4d649607119efcfe428d">
 
@@ -204,7 +204,7 @@
 
 </span>
 
-</span>    curl -O "http://example.com/{web,mail}-log[0-6].txt"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -O "http://example.com/{web,mail}-log[0-6].txt"<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="c00f95e51b15449589c8e190c9e2dae1">
 
@@ -256,7 +256,7 @@
 
 </span>
 
-</span>    curl "http://{one,two}.example.com" -o "file_#1.txt"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl "http://{one,two}.example.com" -o "file\_#1.txt"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e8676c8dbc6e413983e61a9cb43dc8e1">
 
@@ -264,7 +264,7 @@
 
 </span>
 
-</span>    curl "http://{site,host}.host[1-5].example.com" -o "subdir/#1_#2"<a href="urls.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl "http://{site,host}.host[1-5].example.com" -o "subdir/#1\_#2"<a href="urls.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 
