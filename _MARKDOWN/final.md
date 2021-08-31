@@ -1,13 +1,3 @@
-# everything-curl
-
-
-* [WEBSITE](https://bgoonz.github.io/everything-curl/)
-
-
-
-
-
-
 <p><a href="../../index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
 <p><img src="https://gblobscdn.gitbook.com/orgs%2F-LxuH0qSm4xO9nWfEBlB%2Favatar.png?alt=media" class="image-67b14f24--avatar-1c1d03ec" /></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1--spaceNameText-677c2969">Everything curl</span></p>
