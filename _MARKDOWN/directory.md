@@ -1,6 +1,5 @@
-      directory  a { color: black; } li { border: 1px solid black !important; font-size: 20px; letter-spacing: 0px; font-weight: 700; line-height: 16px; text-decoration: none !important; text-transform: uppercase; background: #194ccdaf !important; color: black !important; border: none; cursor: pointer; justify-content: center; padding: 30px 60px; height: 48px; text-align: center; white-space: normal; border-radius: 10px; min-width: 45em; padding: 1.2em 1em 0; box-shadow: 0 0 5px; margin: 1em; display: grid; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; }
+      directory  a { color: black; } li { border: 1px solid black !important; font-size: 20px; letter-spacing: 0px; font-weight: 700; line-height: 16px; text-decoration: none !important; text-transform: uppercase; background: #194ccdaf !important; color: black !important; border: none; cursor: pointer; justify-content: center; padding: 30px 60px; height: 48px; text-align: center; white-space: normal; border-radius: 10px; min-width: 45em; padding: 1.2em 1em 0; box-shadow: 0 0 5px; margin: 1em; display: grid; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; }- [./](./)
 
-- [./](./)
 - [./advanced.md](./advanced.md)
 - [./altsvc.md](./altsvc.md)
 - [./api.md](./api.md)

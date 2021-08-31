@@ -207,7 +207,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">The URL converted to a request</span></span></p>
 <p><a href="basics.html#path-as-is" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">–path-as-is</span></span></p>
-<p><a href="bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
+<p><a href="bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="bindings"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Bindings</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6064c2100106470ebf6345c74b37fac8"><span data-offset-key="6064c2100106470ebf6345c74b37fac8:0">Creative people have written bindings or interfaces for various environments and programming languages. Using one of these allows you to take advantage of the power of curl from within your favorite language or system. This is a list of all known interfaces, as of the time of this writing.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="aa3c70e4f6f94ff69d8c9de4572b0627"><span data-offset-key="aa3c70e4f6f94ff69d8c9de4572b0627:0">The bindings listed below are not part of the curl/libcurl distribution archives. They must be downloaded and installed separately.</span></span></span></p>
@@ -349,11 +349,11 @@
 <p><a href="libcurl-http/upload.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><a href="internals.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><a href="/" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
-<p><a href="/" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
-<p><a href="/how-to-read" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
-<p><a href="/bindings" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
-<p><a href="/internals" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="/bookindex" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
+<p><a href="/" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="/how-to-read" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="/bindings" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="/internals" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="/bookindex" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="index"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1"></span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="98acd8fbf5384a59ae571aaafe6a8f6a"><span data-offset-key="98acd8fbf5384a59ae571aaafe6a8f6a:0">%</span></span></span></p>
 <li><p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="b410b5eb34ce4ee6880e2b67071233c4"><span data-offset-key="b410b5eb34ce4ee6880e2b67071233c4:0">%{json}: </span></span><a href="/usingcurl/verbose/writeout#available---write-out-variables" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="9589fbcb142e4e78866bc2e786836353"><span data-offset-key="9589fbcb142e4e78866bc2e786836353:0">Available –write-out variables</span></span></a><span data-key="7e4330cdb2084496990d32bcbe7a2604"><span data-offset-key="7e4330cdb2084496990d32bcbe7a2604:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
@@ -711,20 +711,20 @@
 <p><a href="/internals" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">libcurl internals</span></p>
 <p><a href="../../../index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
-<p><a href="../../../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
-<p><a href="../../../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
-<p><a href="../../layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code layout</span></a></p>
-<p><a href="../../options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Handling build options</span></a></p>
-<p><a href="../../style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code style</span></a></p>
-<p><a href="../../contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Contributing</span></a></p>
-<p><a href="../../reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reporting vulnerabilities</span></a></p>
-<p><a href="../../web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Web site</span></a></p>
+<p><a href="../../../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
 <p><a href="../fromsource.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Build from source</span></a></p>
 <p><a href="../deps.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Dependencies</span></a></p>
 <p><a href="boringssl.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">BoringSSL</span></a></p>
-<p><a href="../../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
-<p><a href="../../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
+<p><a href="../../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
 <h1 id="boringssl"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">BoringSSL</span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="1cb5d488c24e4c878b3e43a58718ef28"><span data-offset-key="1cb5d488c24e4c878b3e43a58718ef28:0">build boringssl</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="717d2fad518c40ba98cb0620d7e1dbab"><span data-offset-key="717d2fad518c40ba98cb0620d7e1dbab:0">$HOME/src is where I put the code in this example. You can pick wherever you like.</span></span></span></p>
@@ -1048,7 +1048,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Multi API pool</span></span></p>
 <p><a href="connectionreuse.html#sharing-the-connection-cache" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Sharing the “connection cache”</span></span></p>
-<p><a href="connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connections</span></a></p>
+<p><a href="connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="connections"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Connections</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ad9f672eb8184c649bf197923cfef21c"><span data-offset-key="ad9f672eb8184c649bf197923cfef21c:0">Most of the protocols you use with curl speak TCP. With TCP, a client such as curl must first figure out the IP address(es) of the host you want to communicate with, then connect to it. “Connecting to it” means performing a TCP protocol handshake.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="92289d175d5643029a7b7490b0856bda"><span data-offset-key="92289d175d5643029a7b7490b0856bda:0">For ordinary command line usage, operating on a URL, these are details which are taken care of under the hood, and which you can mostly ignore. But at times you might find yourself wanting to tweak the specifics…</span></span></span></p>
@@ -1128,7 +1128,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Local port number</span></span></p>
 <p><a href="connections.html#keep-alive" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Keep alive</span></span></p>
-<p><a href="contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Contributing</span></a></p>
+<p><a href="contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="contributing"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Contributing</span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="316677ca71c64b9a9b78e63eece38b6e"><span data-offset-key="316677ca71c64b9a9b78e63eece38b6e:0">Contributing</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="7e1a7905c2764caf85b9777e39d961f7"><span data-offset-key="7e1a7905c2764caf85b9777e39d961f7:0">Contributing means helping out.</span></span></span></p>
@@ -1333,7 +1333,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1--pageTocLinkH2-2294976c">Cookie store commands</span></span></p>
 <p><a href="cookies.html#cookie-file-format" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Cookie file format</span></span></p>
-<p><a href="copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Copy as curl</span></a></p>
+<p><a href="copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="copy-as-curl"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Copy as curl</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="efc38c7fb7364064a049a0d6f71358c8"><span data-offset-key="efc38c7fb7364064a049a0d6f71358c8:0">Using curl to perform an operation a user just managed to do with his or her browser is one of the more common requests and areas people ask for help about.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="6d3066c19dac4fc9b76a9b78231d1a8f"><span data-offset-key="6d3066c19dac4fc9b76a9b78231d1a8f:0">How do you get a curl command line to get a resource, just like the browser would get it, nice and easy? Chrome, Firefox and Safari all have this feature.</span></span></span></p>
@@ -1619,7 +1619,7 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Cookies with libcurl</span></p>
 <p><a href="upload.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Upload</span></p>
-<p><a href="downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Downloads</span></a></p>
+<p><a href="downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="downloads"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Downloads</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="48464f257a5a441da8ac89a74620e8f8"><span data-offset-key="48464f257a5a441da8ac89a74620e8f8:0">“Download” means getting data from a server on a network, and the server is then clearly considered to be “above” you. This is loading data down from the server onto your machine where you are running curl.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="688d63205f38463c8c64aad02318f291"><span data-offset-key="688d63205f38463c8c64aad02318f291:0">Downloading is probably the most common use case for curl—retrieving the specific data pointed to by a URL onto your machine.</span></span></span></p>
@@ -2323,7 +2323,7 @@
 <p><a href="libcurl.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">–libcurl</span></p>
 <p><a href="globalinit.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><a href="how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
+<p><a href="how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="how-to-read-this-book"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">How to read this book</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ed35526ebd294cf591a3027e4b838a8b"><span data-offset-key="ed35526ebd294cf591a3027e4b838a8b:0">Here is an overview of the main sections of this book and what they cover.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="faf4ca8e725f4f8e8b65e4c6f8ecf29f"><span data-offset-key="faf4ca8e725f4f8e8b65e4c6f8ecf29f:0">1. </span></span><a href="project.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="8b8ee88dccc04d71bf7a50ebbae7578c"><span data-offset-key="8b8ee88dccc04d71bf7a50ebbae7578c:0">The cURL project</span></span></a><span data-key="2f42d73af6094c8fb95c460cedd6ccee"><span data-offset-key="2f42d73af6094c8fb95c460cedd6ccee:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
@@ -2465,7 +2465,7 @@
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="32783b94fc3a47788a7da123867f08cd"><span data-offset-key="32783b94fc3a47788a7da123867f08cd:0">HTTPS is in effect Secure HTTP. The “secure” part means that the TCP transport layer is enhanced to provide authentication, privacy (encryption) and data integrity by the use of TLS.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="acc7887a69bf4946ade4795dfda6a512"><span data-offset-key="acc7887a69bf4946ade4795dfda6a512:0">See the </span></span><a href="../usingcurl/tls.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="0f6ef0c1a3b34e5093214feef1d76b42"><span data-offset-key="0f6ef0c1a3b34e5093214feef1d76b42:0">Using TLS</span></span></a><span data-key="65dcfdd9f01049dcacfdd29e0833ab7e"><span data-offset-key="65dcfdd9f01049dcacfdd29e0833ab7e:0"> section for in-depth details on how to modify and tweak the TLS details in a HTTPS transfer.</span></span></span></p>
 <p><a href="post.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><a href="index.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
+<p><a href="index.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="introduction"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Introduction</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="c850d034709e428cae4b32969307c325"><span data-offset-key="c850d034709e428cae4b32969307c325:0"><em>Everything curl</em></span><span data-offset-key="c850d034709e428cae4b32969307c325:1"> is an extensive guide for all things curl. The project, the command-line tool, the library, how everything started and how it came to be the useful tool it is today.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="4895bd62b2dc40d289076043df05b99e"><span data-offset-key="4895bd62b2dc40d289076043df05b99e:0">This guide explains how we work on developing it further, what it takes to use it, how you can contribute with code or bug reports and why millions of existing users use it.</span></span></span></p>
@@ -2500,7 +2500,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Helpers</span></span></p>
 <p><a href="index.html#license" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">License</span></span></p>
-<p><a href="internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
+<p><a href="internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="libcurl-internals"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">libcurl internals</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="5d7648b26eb74c9880b588ebc9708a93"><span data-offset-key="5d7648b26eb74c9880b588ebc9708a93:0">libcurl is never finished and is not just an off-the-shelf product. It is a living project that is improved and modified on almost a daily basis. We depend on skilled and interested hackers to fix bugs and to add features.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="f635209a571a424aa0722d0f1a8c0453"><span data-offset-key="f635209a571a424aa0722d0f1a8c0453:0">This chapter is meant to describe internal details to aid keen libcurl hackers to learn some basic concepts on how libcurl works internally and thus possibly where to look for problems or where to add things when you want to make the library do something new.</span></span></span></p>
@@ -2559,7 +2559,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1--pageTocLinkH2-2294976c">Done</span></span></p>
 <p><a href="internals.html#disconnect" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1--pageTocLinkH2-2294976c">Disconnect</span></span></p>
-<p><a href="layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code layout</span></a></p>
+<p><a href="layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="code-layout"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Code layout</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e038ee27067f4631a61cbd04ca8d24f3"><span data-offset-key="e038ee27067f4631a61cbd04ca8d24f3:0">The curl source code tree is neither large nor complicated. A key thing to remember is, perhaps, that libcurl is the library and that library is the biggest component of the curl command-line tool.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="fb0dda2f9409439cadeb7ffb2796c7d3"><span data-offset-key="fb0dda2f9409439cadeb7ffb2796c7d3:0">root</span></span></span></p>
@@ -2741,7 +2741,7 @@
 <p><a href="libcurl/connectionreuse.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connection reuse</span></a></p>
 <p><a href="libcurl/cleanup.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Cleanup</span></a></p>
 <p><a href="libcurl/names.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Name resolving</span></a></p>
-<p><a href="libcurl/proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Proxies</span></a></p>
+<p><a href="libcurl/proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
 <p><a href="libcurl/getinfo.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Post transfer info</span></a></p>
 <p><a href="libcurl/sharing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Share data between handles</span></a></p>
 <p><a href="libcurl/url.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">URL API</span></a></p>
@@ -2876,7 +2876,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">curl-library</span></span></p>
 <p><a href="maillists.html#curl-announce" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">curl-announce</span></span></p>
-<p><a href="mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">MQTT</span></a></p>
+<p><a href="mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="mqtt"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">MQTT</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="123c8bf295504fa08e27b702adfd3236"><span data-offset-key="123c8bf295504fa08e27b702adfd3236:0">A plain “GET” subscribes to the topic and prints all published messages. Doing a “POST” publishes the post data to the topic and exits.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="c76cd45a8159476f92ee54afeaeecd96"><span data-offset-key="c76cd45a8159476f92ee54afeaeecd96:0">Subscribe to the temperature in the “home/bedroom” subject published by example.com:</span></span></span></p>
@@ -3095,7 +3095,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Name server options</span></span></p>
 <p><a href="names.html#no-global-dns-cache" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">No global DNS cache</span></span></p>
-<p><a href="netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">.netrc</span></a></p>
+<p><a href="netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="netrc"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">.netrc</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="3009cdcfd4a64830ae996e3fe991450b"><span data-offset-key="3009cdcfd4a64830ae996e3fe991450b:0">Unix systems have for a long time offered a way for users to store their user name and password for remote FTP servers. ftp clients have supported this for decades and this way allowed users to quickly login to known servers without manually having to reenter the credentials each time. The </span><span data-offset-key="3009cdcfd4a64830ae996e3fe991450b:1"><code>.netrc</code></span><span data-offset-key="3009cdcfd4a64830ae996e3fe991450b:2"> file is typically stored in a user’s home directory. (On Windows, curl will look for it with the name </span><span data-offset-key="3009cdcfd4a64830ae996e3fe991450b:3"><code>_netrc</code></span><span data-offset-key="3009cdcfd4a64830ae996e3fe991450b:4">).</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="cecbeca41c0145c2ba592c262343a053"><span data-offset-key="cecbeca41c0145c2ba592c262343a053:0">This being a widespread and well used concept, curl also supports it—if you ask it to. curl does not, however, limit this feature to FTP, but can get credentials for machines for any protocol with this. See further below for how.</span></span></span></p>
@@ -3221,7 +3221,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Setting numerical options</span></span></p>
 <p><a href="options.html#get-handle-options" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Get handle options</span></span></p>
-<p><a href="options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Handling build options</span></a></p>
+<p><a href="options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="handling-build-options"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Handling build options</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="59172c60016c4beba94e9286b5b8d867"><span data-offset-key="59172c60016c4beba94e9286b5b8d867:0">The curl and libcurl source code have been carefully written to build and run on virtually every computer platform in existence. This can only be done through hard work and by adhering to a few guidelines (and, of course, a fair amount of testing).</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="9419c8e1a98f4c08a6bb417565d8b435"><span data-offset-key="9419c8e1a98f4c08a6bb417565d8b435:0">A golden rule is to always add #ifdefs that checks for specific features, and then have the setup scripts (configure or CMake or hard-coded) check for the presence of said features in a user’s computer setup before the program is compiled there. Additionally and as a bonus, thanks to this way of writing the code, some features can be explicitly turned off even if they are present in the system and </span><span data-offset-key="9419c8e1a98f4c08a6bb417565d8b435:1"><em>could</em></span><span data-offset-key="9419c8e1a98f4c08a6bb417565d8b435:2"> be used. Examples of that would be when users want to, for example, build a version of the library with a smaller footprint or with support for certain protocols disabled, etc.</span></span></span></p>
@@ -3301,7 +3301,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Command line leakage</span></span></p>
 <p><a href="passwords.html#network-leakage" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Network leakage</span></span></p>
-<p><a href="persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Persistent connections</span></a></p>
+<p><a href="persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="persistent-connections"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Persistent connections</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="f50ac05a5649438ca7c254c5317550d3"><span data-offset-key="f50ac05a5649438ca7c254c5317550d3:0">When setting up TCP connections to sites, curl will keep the old connection around for a while so that if the next transfer is to the same host it can reuse the same connection again and thus save a lot of time. We call this persistent connections. curl will always try to keep connections alive and reuse existing connections as far as it can.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="53a0f8159c4847949fc22a2073ad6cee"><span data-offset-key="53a0f8159c4847949fc22a2073ad6cee:0">The curl command-line tool can, however, only keep connections alive for as long as it runs, so as soon as it exits back to your command line it has to close down all currently open connections (and also free and clean up all the other caches it uses to decrease time of subsequent operations). We call the pool of alive connections the “connection cache”.</span></span></span></p>
@@ -3629,7 +3629,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">HTTP proxy</span></span></p>
 <p><a href="proxies.html#https-proxy" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">HTTPS proxy</span></span></p>
-<p><a href="proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Proxies</span></a></p>
+<p><a href="proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="proxies-1"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Proxies</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="aed1bf511cee4a45bd72986873f75cb0"><span data-offset-key="aed1bf511cee4a45bd72986873f75cb0:0">A proxy is a machine or software that does something on behalf of you, the client.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="242daacbf0fb4629963983c5e75b7ea1"><span data-offset-key="242daacbf0fb4629963983c5e75b7ea1:0">You can also see it as a middle man that sits between you and the server you want to work with, a middle man that you connect to instead of the actual remote server. You ask the proxy to perform your desired operation for you and then it will run off and do that and then return the data to you.</span></span></span></p>
@@ -3800,7 +3800,7 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Write data</span></p>
 <p><a href="progress.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Progress information</span></p>
-<p><a href="reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reading email</span></a></p>
+<p><a href="reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="reading-email"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Reading email</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="e1c76a74e7d44d0d82186a3aeb570799"><span data-offset-key="e1c76a74e7d44d0d82186a3aeb570799:0">There are two dominant protocols on the Internet for reading/downloading email from servers (at least if we do not count web based reading), and they are IMAP and POP3. The former being the slightly more modern alternative. curl supports both.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="e1ca8729922147619bffcbb07cc1834e"><span data-offset-key="e1ca8729922147619bffcbb07cc1834e:0">POP3</span></span></span></p>
@@ -3925,7 +3925,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Releases</span></span></p>
 <p><a href="releases.html#daily-snapshots" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Daily snapshots</span></span></p>
-<p><a href="reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reporting vulnerabilities</span></a></p>
+<p><a href="reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="reporting-vulnerabilities"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Reporting vulnerabilities</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="443a57f54eba47adbe3478de3f02d9fa"><span data-offset-key="443a57f54eba47adbe3478de3f02d9fa:0">All known and public curl or libcurl related vulnerabilities are listed on </span></span><a href="https://curl.se/docs/security.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="008b0f63704f4e75bf1d8e3effa321b9"><span data-offset-key="008b0f63704f4e75bf1d8e3effa321b9:0">the curl web site security page</span></span></a><span data-key="9f445ab3bd7849d790dff635f8499d37"><span data-offset-key="9f445ab3bd7849d790dff635f8499d37:0">.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="7f00125dca9e4717a342b494910c9e93"><span data-offset-key="7f00125dca9e4717a342b494910c9e93:0">Security vulnerabilities should not be entered in the project’s public bug tracker unless the necessary configuration is in place to limit access to the issue to only the reporter and the project’s security team.</span></span></span></p>
@@ -4175,7 +4175,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">HTTP response code</span></span></p>
 <p><a href="responses.html#about-http-response-code-errors" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">About HTTP response code “errors”</span></span></p>
-<p><a href="returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Exit status</span></a></p>
+<p><a href="returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="exit-status"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Exit status</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="dcce7ace76004f10ac887faea0869123"><span data-offset-key="dcce7ace76004f10ac887faea0869123:0">A lot of effort has gone into the project to make curl return a usable exit code when something goes wrong and it will always return 0 (zero) when the operation went as planned.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="d3137229b93a4e6eb8cb428afb7cdcf9"><span data-offset-key="d3137229b93a4e6eb8cb428afb7cdcf9:0">If you write a shell script or batch file that invokes curl, you can always check the return code to detect problems in the invoked command. Below, you will find a list of return codes as of the time of this writing. Over time we tend to slowly add new ones so if you get a code back not listed here, please refer to more updated curl documentation for aid.</span></span></span></p>
@@ -4295,7 +4295,7 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">SSH key</span></p>
 <p><a href="ftpmatch.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">FTP matching</span></p>
-<p><a href="scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">SCP and SFTP</span></a></p>
+<p><a href="scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="scp-and-sftp"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">SCP and SFTP</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="028d5d8e00c84fdcb7705586fc6187cb"><span data-offset-key="028d5d8e00c84fdcb7705586fc6187cb:0">curl supports the SCP and SFTP protocols if built with the correct prerequisite 3rd party library, </span></span><a href="https://www.libssh2.org/" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="25ed6febcd5e46679a6910e0be9c2ba6"><span data-offset-key="25ed6febcd5e46679a6910e0be9c2ba6:0">libssh2</span></span></a><span data-key="305cc93d9a924281b0252127473d08df"><span data-offset-key="305cc93d9a924281b0252127473d08df:0">.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="918485119c3a4bd5b31a6c93e00adfb5"><span data-offset-key="918485119c3a4bd5b31a6c93e00adfb5:0">SCP and SFTP are both protocols that are built on top of SSH, a secure and encrypted data protocol that is similar to TLS but differs in a few important ways. For example, SSH does not use certificates of any sort but instead it uses public and private keys. Both SSH and TLS provide strong crypto and secure transfers when used correctly.</span></span></span></p>
@@ -4388,7 +4388,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Locking</span></span></p>
 <p><a href="sharing.html#unshare" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Unshare</span></span></p>
-<p><a href="smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Sending email</span></a></p>
+<p><a href="smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="sending-email"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Sending email</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="97d1147998904d09866fe6278ec3490a"><span data-offset-key="97d1147998904d09866fe6278ec3490a:0">Sending email with curl is done with the SMTP protocol. SMTP stands for </span></span><a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="c52e072cd8334ee1832d43d57f377e1b"><span data-offset-key="c52e072cd8334ee1832d43d57f377e1b:0">Simple Mail Transfer Protocol</span></span></a><span data-key="e1b2b160937a47a4ab250924957f7768"><span data-offset-key="e1b2b160937a47a4ab250924957f7768:0">.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="2945595dc9d7476d8e897d94c7bc9d5d"><span data-offset-key="2945595dc9d7476d8e897d94c7bc9d5d:0">curl supports sending data to an SMTP server, which combined with the right set of command line options makes an email get sent to a set of receivers of your choice.</span></span></span></p>
@@ -4449,12 +4449,12 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Debug</span></p>
 <p><a href="sslcontext.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">SSL context</span></p>
-<p><a href="source/layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code layout</span></a></p>
-<p><a href="source/options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Handling build options</span></a></p>
-<p><a href="source/style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code style</span></a></p>
-<p><a href="source/contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Contributing</span></a></p>
-<p><a href="source/reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reporting vulnerabilities</span></a></p>
-<p><a href="source/web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Web site</span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="source/contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="source/reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="source/web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
 <h1 id="the-source-code"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">The source code</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="75964fa47d3447149a43651571ec960b"><span data-offset-key="75964fa47d3447149a43651571ec960b:0">The source code is, of course, the actual engine parts of this project. After all, it is a software project.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="4724903f20b6472c83a99359f22e0a91"><span data-offset-key="4724903f20b6472c83a99359f22e0a91:0">curl and libcurl are written in C.</span></span></span></p>
@@ -4518,8 +4518,8 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">The cURL project</span></p>
 <p><a href="name.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">The name</span></p>
-<p><a href="style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code style</span></a></p>
-<p><a href="web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Web site</span></a></p>
+<p><a href="style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
+<p><a href="web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
 <h1 id="code-style"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Code style</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="25d55aa9f89f4f929705fe0fe9eb33a5"><span data-offset-key="25d55aa9f89f4f929705fe0fe9eb33a5:0">Source code that has a common style is easier to read than code that uses different styles in different places. It helps making the code feel like one continuous code base. Easy-to-read is a important property of code and helps make it easier to review when new things are added and it helps debugging code when developers are trying to figure out why things go wrong. A unified style is more important than individual contributors having their own personal tastes satisfied.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="8e5fe42a8b9341f386ee3ca5dbee321c"><span data-offset-key="8e5fe42a8b9341f386ee3ca5dbee321c:0">Our C code has a few style rules. Most of them are verified and upheld by the lib/checksrc.pl script. Invoked with </span><span data-offset-key="8e5fe42a8b9341f386ee3ca5dbee321c:1"><code>make checksrc</code></span><span data-offset-key="8e5fe42a8b9341f386ee3ca5dbee321c:2"> or even by default by the build system when built after </span><span data-offset-key="8e5fe42a8b9341f386ee3ca5dbee321c:3"><code>./configure --enable-debug</code></span><span data-offset-key="8e5fe42a8b9341f386ee3ca5dbee321c:4"> has been used.</span></span></span></p>
@@ -4559,7 +4559,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">else on the following line</span></span></p>
 <p><a href="style.html#no-space-before-parentheses" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">No space before parentheses</span></span></p>
-<p><a href="telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TELNET</span></a></p>
+<p></p>
 <h1 id="telnet"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">TELNET</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="84b956dfe0b14124b00da48d231d6b9c"><span data-offset-key="84b956dfe0b14124b00da48d231d6b9c:0">TBD</span></span></span></p>
 <p><a href="mqtt.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
@@ -4572,7 +4572,7 @@
 <p><a href="globalinit.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Global initialization</span></p>
 <p><a href="options.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><a href="timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Timeouts</span></a></p>
+<p><a href="timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="timeouts"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Timeouts</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="303180c511754cb99c0dc8476165354e"><span data-offset-key="303180c511754cb99c0dc8476165354e:0">Network operations are by their nature rather unreliable or perhaps fragile operations as they depend on a set of services and networks to be up and working for things to work. The availability of these services can come and go and the performance of them may also vary greatly from time to time.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="4a921b3d7d4f46a58b6479664b73732b"><span data-offset-key="4a921b3d7d4f46a58b6479664b73732b:0">The design of TCP even allows the network to get completely disconnected for an extended period of time without it necessarily getting noticed by the participants in the transfer.</span></span></span></p>
@@ -4607,12 +4607,12 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Transfer speeds slower than this means exit</span></span></p>
 <p><a href="timeouts.html#keep-connections-alive" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Keep connections alive</span></span></p>
-<p><a href="../layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code layout</span></a></p>
-<p><a href="../options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Handling build options</span></a></p>
-<p><a href="../style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code style</span></a></p>
-<p><a href="../contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Contributing</span></a></p>
-<p><a href="../reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reporting vulnerabilities</span></a></p>
-<p><a href="../web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Web site</span></a></p>
+<p><a href="../layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
 <p><a href="fromsource.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Build from source</span></a></p>
 <p><a href="deps.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Dependencies</span></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TLS libraries</span></p>
@@ -5014,7 +5014,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Expect: headers</span></span></p>
 <p><a href="upload.html#uploads-also-downloads" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Uploads also downloads</span></span></p>
-<p><a href="uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Uploads</span></a></p>
+<p><a href="uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
 <h1 id="uploads"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Uploads</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="0a12a3814dd74269a2b84e3eec801c13"><span data-offset-key="0a12a3814dd74269a2b84e3eec801c13:0">Uploading is a term for sending data to a remote server. Uploading is done differently for each protocol, and several protocols may even allow different ways of uploading data.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="05a025871a65499699df76979949776f"><span data-offset-key="05a025871a65499699df76979949776f:0">Protocols allowing upload</span></span></span></p>
@@ -5331,27 +5331,27 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Famous users</span></span></p>
 <p><a href="users.html#famous-high-volume-apps-using-curl" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Famous high volume apps using curl</span></span></p>
-<p><a href="index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
-<p><a href="index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
-<p><a href="how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
-<p><a href="usingcurl/version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Version</span></a></p>
-<p><a href="usingcurl/persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Persistent connections</span></a></p>
-<p><a href="usingcurl/downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Downloads</span></a></p>
-<p><a href="usingcurl/uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Uploads</span></a></p>
-<p><a href="usingcurl/connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connections</span></a></p>
-<p><a href="usingcurl/timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Timeouts</span></a></p>
-<p><a href="usingcurl/netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">.netrc</span></a></p>
-<p><a href="usingcurl/proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Proxies</span></a></p>
-<p><a href="usingcurl/returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Exit status</span></a></p>
-<p><a href="usingcurl/scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">SCP and SFTP</span></a></p>
-<p><a href="usingcurl/reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reading email</span></a></p>
-<p><a href="usingcurl/smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Sending email</span></a></p>
-<p><a href="usingcurl/mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">MQTT</span></a></p>
-<p><a href="usingcurl/telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TELNET</span></a></p>
-<p><a href="usingcurl/copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Copy as curl</span></a></p>
-<p><a href="bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
-<p><a href="internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="usingcurl/version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="usingcurl/copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p></a></p>
+<p><a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
 <h1 id="using-curl"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Using curl</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="5a56a39d19fd49049d0fd131c38517ca"><span data-offset-key="5a56a39d19fd49049d0fd131c38517ca:0">Previous chapters have described some basic details on what curl is and something about the basic command lines. You use command-line options and you pass on URLs to work with.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="64c3a95387eb434ab0f736d6f533d811"><span data-offset-key="64c3a95387eb434ab0f736d6f533d811:0">In this chapter, we are going to dive deeper into a variety of different concepts of what curl can do and how to tell curl to use these features. You should consider all these features as different tools that are here to help you do your file transfer tasks as conveniently as possible.</span></span></span></p>
@@ -5399,7 +5399,7 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">libcurl examples</span></p>
 <p><a href="verbose/trace.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Trace options</span></a></p>
 <p><a href="verbose/writeout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Write out</span></a></p>
-<p><a href="version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Version</span></a></p>
+<p></p>
 <h1 id="verbose"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Verbose</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="7b12661d0d2e4daeb99e931d2085ddf5"><span data-offset-key="7b12661d0d2e4daeb99e931d2085ddf5:0">If your curl command does not execute or return what you expected it to, your first gut reaction should always be to run the command with the </span><span data-offset-key="7b12661d0d2e4daeb99e931d2085ddf5:1"><code>-v / --verbose</code></span><span data-offset-key="7b12661d0d2e4daeb99e931d2085ddf5:2"> option to get more information.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="fff131e4e6ef4200af9ad7f28fe6228c"><span data-offset-key="fff131e4e6ef4200af9ad7f28fe6228c:0">When verbose mode is enabled, curl gets more talkative and will explain and show a lot more of its doings. It will add informational tests and prefix them with ‘*’. For example, let’s see what curl might say when trying a simple HTTP example (saving the downloaded data in the file called ‘saved’):</span></span></span></p>
@@ -5434,21 +5434,21 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">HTTP/2 and HTTP/3</span></span></p>
 <p><a href="verbose.html#silence" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Silence</span></span></p>
-<p><a href="version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Version</span></a></p>
-<p><a href="persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Persistent connections</span></a></p>
-<p><a href="downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Downloads</span></a></p>
-<p><a href="uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Uploads</span></a></p>
-<p><a href="connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connections</span></a></p>
-<p><a href="timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Timeouts</span></a></p>
-<p><a href="netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">.netrc</span></a></p>
-<p><a href="proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Proxies</span></a></p>
-<p><a href="returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Exit status</span></a></p>
-<p><a href="scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">SCP and SFTP</span></a></p>
-<p><a href="reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reading email</span></a></p>
-<p><a href="smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Sending email</span></a></p>
-<p><a href="mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">MQTT</span></a></p>
-<p><a href="telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TELNET</span></a></p>
-<p><a href="copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Copy as curl</span></a></p>
+<p><a href="version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
+<p></p>
+<p><a href="downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p></p>
 <h1 id="version"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Version</span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="eb8fde6266c34e4f915ac4ae14d59dd6"><span data-offset-key="eb8fde6266c34e4f915ac4ae14d59dd6:0">Version</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="fc36d5d49508496a8a647ad82c19ba45"><span data-offset-key="fc36d5d49508496a8a647ad82c19ba45:0">To get to know what version of curl you have installed, run</span></span></span></p>
@@ -5624,13 +5624,13 @@
 <p><a href="https.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">HTTPS</span></p>
 <p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 5 months ago</span></p>
-<p><a href="layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code layout</span></a></p>
-<p><a href="options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Handling build options</span></a></p>
-<p><a href="style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Code style</span></a></p>
-<p><a href="contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Contributing</span></a></p>
-<p><a href="reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reporting vulnerabilities</span></a></p>
-<p><a href="web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Web site</span></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Build and install</span></p>
+<p><a href="layout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="options.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="style.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="contributing.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="reportvuln.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="web.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"></a></p>
+<p></p>
 <h1 id="web-site"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Web site</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="f735e5c5ee7146e89a6aa48094957a78"><span data-offset-key="f735e5c5ee7146e89a6aa48094957a78:0">Most of the curl web site is also available in a public git repository, although separate from the source code repository since it generally is not interesting to the same people and we can maintain a different list of people that have push rights, etc.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="4a49b52e1aa74e0c923ba33c967e14c4"><span data-offset-key="4a49b52e1aa74e0c923ba33c967e14c4:0">The web site git repository is available on GitHub at this URL: </span></span><a href="https://github.com/curl/curl-www" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="9864fd1e28f44750a296e0afdb1a89c5"><span data-offset-key="9864fd1e28f44750a296e0afdb1a89c5:0">https://github.com/curl/curl-www</span></span></a><span data-key="e2ccdafe9d2741a1a59bff25e0af0e98"><span data-offset-key="e2ccdafe9d2741a1a59bff25e0af0e98:0"> and you can clone a copy of the web code like this:</span></span></span></p>
@@ -5644,15 +5644,15 @@
 <p><a href="build.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Build and install</span></p>
 <p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 12 months ago</span></p>
-<p><a href="../index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
-<p><a href="../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
-<p><a href="../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="linux.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Linux</span></a></p>
 <p><a href="windows.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Windows</span></a></p>
 <p><a href="macos.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">macOS</span></a></p>
-<p><a href="../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
-<p><a href="../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
+<p><a href="../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p></p>
+<p></p>
 <h1 id="windows"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Windows</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="372c8b5e4ecc439f958e82b91bc75e3b"><span data-offset-key="372c8b5e4ecc439f958e82b91bc75e3b:0">Windows 10 comes with the curl tool bundled with the operating system since version 1804. If you have an older Windows version or just want to upgrade to the latest version shipped by the curl project, download the latest official curl release for Windows from </span></span><a href="https://curl.se/windows/" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="619a64aba40c41aa81a6ee4ed1e41145"><span data-offset-key="619a64aba40c41aa81a6ee4ed1e41145:0">curl.se/windows</span></span></a><span data-key="741e4ef2ad1047e2a8be586dc923e93b"><span data-offset-key="741e4ef2ad1047e2a8be586dc923e93b:0"> and install that.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="7aabdac2033c4633933aa03481051abd"><span data-offset-key="7aabdac2033c4633933aa03481051abd:0">Get libcurl for Windows</span></span></span></p>
@@ -5662,7 +5662,7 @@
 <p><a href="macos.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">macOS</span></p>
 <p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 8 months ago</span></p>
-<p><a href="../easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Easy handle</span></a></p>
+<p></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Drive transfers</span></p>
 <p><a href="../connectionreuse.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connection reuse</span></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Callbacks</span></p>
@@ -5693,7 +5693,7 @@
 <p><a href="../curlcode.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">CURLcode return codes</span></a></p>
 <p><a href="../verbose.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Verbose operations</span></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl examples</span></p>
-<p><a href="../cplusplus.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">for C++ programmers</span></a></p>
+<p></p>
 <h1 id="write-data"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Write data</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ce358962aa5a43408e280a73aca0c21b"><span data-offset-key="ce358962aa5a43408e280a73aca0c21b:0">The write callback is set with </span><span data-offset-key="ce358962aa5a43408e280a73aca0c21b:1"><code>CURLOPT_WRITEFUNCTION</code></span><span data-offset-key="ce358962aa5a43408e280a73aca0c21b:2">:</span></span></span></p>
 <pre><code>curl_easy_setopt(handle, CURLOPT_WRITEFUNCTION, write_callback);</code></pre>
@@ -5715,40 +5715,40 @@
 <p><a href="../../index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
 <p></p>
 <p></p>
-<p><a href="../../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
-<p><a href="../../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The cURL project</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Get curl</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Open Source</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The source code</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Network and protocols</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Command line basics</span></p>
+<p><a href="../../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <p><a href="writeout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Write out</span></a></p>
-<p><a href="../version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Version</span></a></p>
-<p><a href="../persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Persistent connections</span></a></p>
-<p><a href="../downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Downloads</span></a></p>
-<p><a href="../uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Uploads</span></a></p>
-<p><a href="../connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connections</span></a></p>
-<p><a href="../timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Timeouts</span></a></p>
-<p><a href="../netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">.netrc</span></a></p>
-<p><a href="../proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Proxies</span></a></p>
-<p><a href="../returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Exit status</span></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">FTP</span></p>
-<p><a href="../scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">SCP and SFTP</span></a></p>
-<p><a href="../reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Reading email</span></a></p>
-<p><a href="../smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Sending email</span></a></p>
-<p><a href="../mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">MQTT</span></a></p>
-<p><a href="../telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TELNET</span></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">TLS</span></p>
-<p><a href="../copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Copy as curl</span></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to HTTP with curl</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl basics</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">HTTP with libcurl</span></p>
-<p><a href="../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
-<p><a href="../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
+<p><a href="../version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../downloads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../uploads.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../connections.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../timeouts.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../netrc.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../proxies.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../returns.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p></p>
+<p><a href="../scpsftp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../reademail.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../smtp.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../mqtt.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p><a href="../telnet.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p></p>
+<p><a href="../copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"></a></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
+<p><a href="../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"></a></p>
 <p></p>
 <p></p>
 <p><span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40">Powered by <strong>GitBook</strong></span></p>
