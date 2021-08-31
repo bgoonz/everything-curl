@@ -178,7 +178,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    CURLSH *share = curl_share_init();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> CURLSH \*share = curl_share_init();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="69fe2f4931b04c29978547de18b9e283">
 
@@ -196,7 +196,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    curl_share_setopt(share, CURLSHOPT_SHARE, CURL_LOCK_DATA_COOKIE);curl_share_setopt(share, CURLSHOPT_SHARE, CURL_LOCK_DATA_DNS);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_share_setopt(share, CURLSHOPT_SHARE, CURL_LOCK_DATA_COOKIE);curl_share_setopt(share, CURLSHOPT_SHARE, CURL_LOCK_DATA_DNS);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="1f0158c185a94645bed8bd87bc4f92d7">
 
@@ -204,7 +204,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_SHARE, share);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(curl, CURLOPT_SHARE, share);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5c8fa428b79d462a9dc78efd4ace6ad7">
 
@@ -322,7 +322,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    static void lock_cb(CURL *handle, curl_lock_data data,                    curl_lock_access access, void *userptr){  pthread_mutex_lock(&lock[data]); /* uses a global lock array */}curl_share_setopt(share, CURLSHOPT_LOCKFUNC, lock_cb);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> static void lock_cb(CURL *handle, curl_lock_data data, curl_lock_access access, void *userptr){ pthread_mutex_lock(&lock[data]); /_ uses a global lock array _/}curl_share_setopt(share, CURLSHOPT_LOCKFUNC, lock_cb);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8c7fb5ed615b4e479cef81d46803378a">
 
@@ -330,7 +330,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    static void unlock_cb(CURL *handle, curl_lock_data data,                      void *userptr){  pthread_mutex_unlock(&lock[data]); /* uses a global lock array */}curl_share_setopt(share, CURLSHOPT_UNLOCKFUNC, unlock_cb);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> static void unlock_cb(CURL *handle, curl_lock_data data, void *userptr){ pthread_mutex_unlock(&lock[data]); /_ uses a global lock array _/}curl_share_setopt(share, CURLSHOPT_UNLOCKFUNC, unlock_cb);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="15056bf07f654ea896902d84ab75caee">
 
@@ -376,7 +376,7 @@ h<a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested
 
 </span>
 
-</span>    curl_share_setopt(share, CURLSHOPT_UNSHARE, CURL_LOCK_DATA_DNS);<a href="getinfo.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl_share_setopt(share, CURLSHOPT_UNSHARE, CURL_LOCK_DATA_DNS);<a href="getinfo.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

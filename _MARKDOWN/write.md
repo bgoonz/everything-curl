@@ -28,7 +28,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_WRITEFUNCTION, write_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_WRITEFUNCTION, write_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="687bb2043543411683e6bc5163a7746f">
 
@@ -40,7 +40,7 @@
 
 </span>
 
-</span>    size_t write_callback(char *ptr, size_t size, size_t nmemb, void *userdata);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> size_t write_callback(char *ptr, size_t size, size_t nmemb, void *userdata);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c719dced6322404c95083cfe8dade036">
 
@@ -148,7 +148,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_WRITEDATA, custom_pointer);<a href="../callbacks.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl_easy_setopt(handle, CURLOPT_WRITEDATA, custom_pointer);<a href="../callbacks.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

@@ -150,7 +150,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "DELETE");curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/file.txt");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(curl, CURLOPT_CUSTOMREQUEST, "DELETE");curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/file.txt");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ee6fc5c5983e4f86ae351549efe44279">
 
@@ -204,7 +204,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    GET /file1.txt HTTP/1.1Host: localhostAccept: */*<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> GET /file1.txt HTTP/1.1Host: localhostAccept: _/_<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="dc77f30835b24f33ac79e22e1503fc22">
 
@@ -216,7 +216,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    POST /file1.txt HTTP/1.1Host: localhostAccept: */*Content-Length: 6Content-Type: application/x-www-form-urlencoded<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> POST /file1.txt HTTP/1.1Host: localhostAccept: */*Content-Length: 6Content-Type: application/x-www-form-urlencoded<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="faf398c0dbd242e9b19fa32edf623d84">
 
@@ -256,7 +256,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    struct curl_slist *list = NULL;list = curl_slist_append(list, "Name: Mr Smith");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /* free the list again */<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> struct curl_slist _list = NULL;list = curl_slist_append(list, "Name: Mr Smith");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /_ free the list again \*/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="c9188cc561d44157aedca87616fe11e9">
 
@@ -278,7 +278,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    struct curl_slist *list = NULL;list = curl_slist_append(list, "Host: Alternative");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /* free the list again */<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> struct curl_slist _list = NULL;list = curl_slist_append(list, "Host: Alternative");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /_ free the list again \*/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="f663712e27074a7689af0d0e0bdb5bb6">
 
@@ -300,7 +300,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    struct curl_slist *list = NULL;list = curl_slist_append(list, "Accept:");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /* free the list again */<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> struct curl_slist _list = NULL;list = curl_slist_append(list, "Accept:");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /_ free the list again \*/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="21153cecee6e43b7ae8c2e0b843f9cac">
 
@@ -330,7 +330,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    struct curl_slist *list = NULL;list = curl_slist_append(list, "Moo;");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /* free the list again */<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> struct curl_slist _list = NULL;list = curl_slist_append(list, "Moo;");curl_easy_setopt(curl, CURLOPT_HTTPHEADER, list);curl_easy_perform(curl);curl_slist_free_all(list); /_ free the list again \*/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="ac8e5eaffd544e2dbe970aaa56ffeb3a">
 
@@ -360,7 +360,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_REFERER, "https://example.com/fromhere/");curl_easy_perform(curl);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> curl_easy_setopt(curl, CURLOPT_REFERER, "https://example.com/fromhere/");curl_easy_perform(curl);<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="0a04c96b65c545f1900d0271fd6f1e30">
 
@@ -386,7 +386,7 @@ h<a href="responses.html" class="navButton-94f2579c--pageItemWithChildrenNested-
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);curl_easy_setopt(curl, CURLOPT_AUTOREFERER, 1L);curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/redirected.cgi");curl_easy_perform(curl);<a href="responses.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L);curl_easy_setopt(curl, CURLOPT_AUTOREFERER, 1L);curl_easy_setopt(curl, CURLOPT_URL, "https://example.com/redirected.cgi");curl_easy_perform(curl);<a href="responses.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

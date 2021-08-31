@@ -148,7 +148,7 @@
 
 </span>
 
-</span>    curl http://example.com/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="652dd4eff0ec4db8a000f6ac3e23e387">
 
@@ -156,7 +156,7 @@
 
 </span>
 
-</span>    GET /file HTTP/1.1<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> GET /file HTTP/1.1<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ab6a7c72b29a4ba6a73f96025bb637f4">
 
@@ -180,7 +180,7 @@
 
 </span>
 
-</span>    curl http://example.com/file -X DELETE<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com/file -X DELETE<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e3c9f2936140405983056f88ed3653a6">
 
@@ -264,7 +264,7 @@
 
 </span>
 
-</span>    curl -X OPTIONS --request-target "*" http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -X OPTIONS --request-target "\*" http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="964c37a1d2fb46f8950196da49844bf7">
 
@@ -364,7 +364,7 @@
 
 </span>
 
-</span>    curl -H "Host: test.example" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -H "Host: test.example" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a05f7e26ae484171843df620ec9fd503">
 
@@ -376,7 +376,7 @@
 
 </span>
 
-</span>    curl -H "Elevator: floor-9" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -H "Elevator: floor-9" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="de73823fb90f4de18ced3c78dddb5a9d">
 
@@ -398,7 +398,7 @@
 
 </span>
 
-</span>    curl -H "User-Agent:" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -H "User-Agent:" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c6b19e909f7a4fc3bb940c288cae66d4">
 
@@ -410,7 +410,7 @@
 
 </span>
 
-</span>    curl -H "Empty;" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -H "Empty;" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="0d452d65a2704ff48c221504dcd56af4">
 
@@ -450,7 +450,7 @@
 
 </span>
 
-</span>    curl --referer http://comes-from.example.com https://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --referer http://comes-from.example.com https://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="fc7df497461442959fcf77d59a127b82">
 
@@ -554,7 +554,7 @@
 
 </span>
 
-</span>    curl --time-cond "1 Jul 2011" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --time-cond "1 Jul 2011" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="f14455542e504025b38a23a648707fbf">
 
@@ -566,7 +566,7 @@
 
 </span>
 
-</span>    curl --time-cond "-1 Jul 2011" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --time-cond "-1 Jul 2011" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="1f9c053b99f24b37ad74410e67de57e8">
 
@@ -574,7 +574,7 @@
 
 </span>
 
-</span>    curl --time-cond "Sun, 12 Sep 2004 15:05:58 -0700" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --time-cond "Sun, 12 Sep 2004 15:05:58 -0700" https://www.example.org/file.html<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a1fbd26591634080b3f880be99cf179f">
 
@@ -582,7 +582,7 @@
 
 </span>
 
-</span>    curl --time-cond file https://www.example.org/file.html -o file<a href="redirects.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl --time-cond file https://www.example.org/file.html -o file<a href="redirects.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

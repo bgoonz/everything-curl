@@ -78,7 +78,7 @@
 
 </span>
 
-</span>    curl sftp://example.com/file.zip -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl sftp://example.com/file.zip -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ef28dc86c84446038316b7585f8ef7af">
 
@@ -86,7 +86,7 @@
 
 </span>
 
-</span>    curl scp://example.com/file.zip -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl scp://example.com/file.zip -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8966ba9d6ce7495ea7027ad39510e137">
 
@@ -94,7 +94,7 @@
 
 </span>
 
-</span>    curl sftp://example.com/ -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl sftp://example.com/ -u user<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ab45708981874f198cd7845600429f62">
 
@@ -134,7 +134,7 @@
 
 </span>
 
-</span>    curl sftp://example.com/~/todo.txt -u daniel<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl sftp://example.com/~/todo.txt -u daniel<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="1bb605c77fa34e6eb303f563f1692582">
 

@@ -42,7 +42,7 @@
 
 </span>
 
-</span>    #!/bin/shcurl http://example.comres=$?if test "$res" != "0"; then   echo "the curl command failed with: $res"fi<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> #!/bin/shcurl http://example.comres=$?if test "$res" != "0"; then echo "the curl command failed with: $res"fi<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="7b549fb179a34494b6f4f7d8d250edb8">
 
@@ -50,7 +50,7 @@
 
 </span>
 
-</span>1.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>1. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="381dbac00379470bab958f1562dba68f">
 
@@ -58,7 +58,7 @@
 
 </span>
 
-</span>2.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>2. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7afc90f979c64326ac42c49bd2dee592">
 
@@ -66,7 +66,7 @@
 
 </span>
 
-</span>3.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>3. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="15a2de9ff5654315a1ec3be1ff47c644">
 
@@ -74,7 +74,7 @@
 
 </span>
 
-</span>4.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>4. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7e08a5ff812648748108c8a14221478f">
 
@@ -82,7 +82,7 @@
 
 </span>
 
-</span>5.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>5. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="d6faad33b8014eef81532f5875f27902">
 
@@ -90,7 +90,7 @@
 
 </span>
 
-</span>6.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>6. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="603a06d2147b4b5b8fecd4e83b8cb64e">
 
@@ -98,7 +98,7 @@
 
 </span>
 
-</span>7.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>7. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a674ea87cea8405ba0878c82327f8dcb">
 
@@ -106,7 +106,7 @@
 
 </span>
 
-</span>8.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>8. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5e41ec281a6b45bd942b3f5649a2a345">
 
@@ -114,7 +114,7 @@
 
 </span>
 
-</span>9.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>9. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="664fd3698f5649c89350b2b78917450f">
 

@@ -30,7 +30,7 @@
 
 </span>
 
-</span>    curl -w "formatted string" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -w "formatted string" http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5a6d1183378b49eeb90d05e7cdf706b3">
 
@@ -38,7 +38,7 @@
 
 </span>
 
-</span>    curl -w @filename http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -w @filename http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="d57d19cb57ce44c1b24a7722cc97120d">
 
@@ -46,7 +46,7 @@
 
 </span>
 
-</span>    curl -w @- http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -w @- http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="46c42b56c0894ab196ccac99b04e6998">
 
@@ -78,7 +78,7 @@
 
 </span>
 
-</span>    curl -w "Type: %{content_type}\nCode: %{response_code}\n" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -w "Type: %{content_type}\nCode: %{response_code}\n" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="71381ee904174d47ad898044b1b16cf7">
 

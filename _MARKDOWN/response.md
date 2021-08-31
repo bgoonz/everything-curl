@@ -424,7 +424,7 @@
 
 </span>
 
-</span>    curl --compressed http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --compressed http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="3fb7664f7fef4c28a4a1db01cb11e6e9">
 
@@ -470,7 +470,7 @@
 
 </span>
 
-</span>    curl --tr-encoding http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --tr-encoding http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="41fafd5b3952484a88067fe0a3046e83">
 
@@ -512,7 +512,7 @@
 
 </span>
 
-</span>    curl --raw http://example.com/<a href="basics.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl --raw http://example.com/<a href="basics.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

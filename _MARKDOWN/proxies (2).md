@@ -174,7 +174,7 @@
 
 </span>
 
-</span>    socks4://proxy.example.com:12345/socks4a://proxy.example.com:12345/socks5://proxy.example.com:12345/socks5h://proxy.example.com:12345/http://proxy.example.com:12345/https://proxy.example.com:12345/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> socks4://proxy.example.com:12345/socks4a://proxy.example.com:12345/socks5://proxy.example.com:12345/socks5h://proxy.example.com:12345/http://proxy.example.com:12345/https://proxy.example.com:12345/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="2cda22bacfcc423aba4f00b85017b42b">
 
@@ -364,7 +364,7 @@
 
 </span>
 
-</span>    http_proxy=http://proxy.example.com:80<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> http_proxy=http://proxy.example.com:80<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8aaf491d15b8483a8b13a2af2c97610e">
 

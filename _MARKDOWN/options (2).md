@@ -160,7 +160,7 @@
 
 </span>
 
-</span>    CURLcode ret = curl_easy_setopt(easy, CURLOPT_URL, "http://example.com");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> CURLcode ret = curl_easy_setopt(easy, CURLOPT_URL, "http://example.com");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b14c34470fa14b88950232f52c414c1b">
 
@@ -216,7 +216,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_TIMEOUT, 5L); /* 5 seconds timeout */<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_TIMEOUT, 5L); /_ 5 seconds timeout _/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8b6489150a14495db26b7351dd84294d">
 
@@ -224,7 +224,7 @@
 
 </span>
 
-</span>    curl_off_t no_larger_than = 0x50000;curl_easy_setopt(handle, CURLOPT_MAXFILE_LARGE, no_larger_than);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl_off_t no_larger_than = 0x50000;curl_easy_setopt(handle, CURLOPT_MAXFILE_LARGE, no_larger_than);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="69ba06e9039d401c8a72e85e88489ee0">
 

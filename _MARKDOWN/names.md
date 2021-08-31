@@ -156,7 +156,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_IPRESOLVE, CURL_IPRESOLVE_V6);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_IPRESOLVE, CURL_IPRESOLVE_V6);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="eac429a006b048238828642873a995dc">
 
@@ -174,7 +174,7 @@
 
 </span>
 
-</span>1.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>1. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ce4d3befac254024a82267806f31abcb">
 
@@ -182,7 +182,7 @@
 
 </span>
 
-</span>2.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>2. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c71dd5bb73c64d0d913a6ac4b6679203">
 
@@ -190,7 +190,7 @@
 
 </span>
 
-</span>3.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>3. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="397862dc829145169a211487c1fea697">
 
@@ -232,7 +232,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_DOH_URL, "https://example.com/doh");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_DOH_URL, "https://example.com/doh");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="efcb2898bf994a218fd29a16e886dba3">
 
@@ -354,7 +354,7 @@
 
 </span>
 
-</span>    struct curl_slist *dns;dns = curl_slist_append(NULL, "example.com:443:127.0.0.1");curl_easy_setopt(curl, CURLOPT_RESOLVE, dns);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> struct curl_slist \*dns;dns = curl_slist_append(NULL, "example.com:443:127.0.0.1");curl_easy_setopt(curl, CURLOPT_RESOLVE, dns);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="2c4520d146c44bb38a73cc7e6db2f010">
 

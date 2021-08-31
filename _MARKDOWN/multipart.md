@@ -138,11 +138,11 @@
 
 </span>
 
-</span>    <form action="submit.cgi" method="post" enctype="multipart/form-data">  Name: <input type="text" name="person">
+</span> <form action="submit.cgi" method="post" enctype="multipart/form-data"> Name: <input type="text" name="person">
 
-<br>  File: <input type="file" name="secret">
+<br> File: <input type="file" name="secret">
 
-<br>  <input type="submit" value="Submit">
+<br> <input type="submit" value="Submit">
 
 </form>
 
@@ -224,7 +224,7 @@
 
 </span>
 
-</span>    curl -F person=anonymous -F [email protected] http://example.com/submit.cgi<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -F person=anonymous -F [email protected] http://example.com/submit.cgi<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="c5a6d4cd18524c7cae97a466d5528954">
 
@@ -264,7 +264,7 @@
 
 </span>
 
-</span>    POST /submit.cgi HTTP/1.1Host: example.comUser-Agent: curl/7.46.0Accept: */*Content-Length: 313Expect: 100-continueContent-Type: multipart/form-data; boundary=------------------------d74496d66958873e<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> POST /submit.cgi HTTP/1.1Host: example.comUser-Agent: curl/7.46.0Accept: */*Content-Length: 313Expect: 100-continueContent-Type: multipart/form-data; boundary=------------------------d74496d66958873e<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="3f9fa23dd6a34759ade93c19fe756a7b">
 
@@ -332,7 +332,7 @@
 
 </span>
 
-</span>    --------------------------d74496d66958873eContent-Disposition: form-data; name="person"​anonymous--------------------------d74496d66958873eContent-Disposition: form-data; name="secret"; filename="file.txt"Content-Type: text/plain​contents of the file--------------------------d74496d66958873e--<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> --------------------------d74496d66958873eContent-Disposition: form-data; name="person"​anonymous--------------------------d74496d66958873eContent-Disposition: form-data; name="secret"; filename="file.txt"Content-Type: text/plain​contents of the file--------------------------d74496d66958873e--<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="cd1b9247a1b54bcd8619ed10316f0870">
 
@@ -392,7 +392,7 @@
 
 </span>
 
-</span>    curl -F 'name=Dan' -H 'Content-Type: multipart/magic' https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -F 'name=Dan' -H 'Content-Type: multipart/magic' https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="ad51efd4cff446a3bf6b4c86e73152b2">
 

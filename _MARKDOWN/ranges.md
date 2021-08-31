@@ -148,7 +148,7 @@
 
 </span>
 
-</span>    curl -r 0-199 http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -r 0-199 http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0f4862e08e4e4c10adaef70d35fc3e95">
 
@@ -156,7 +156,7 @@
 
 </span>
 
-</span>    curl -r 200- http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -r 200- http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="6d5fa36e46564618a2a0fb6f2a79ba87">
 
@@ -168,7 +168,7 @@
 
 </span>
 
-</span>    curl -r 0-199,1000-1199 http://example.com/<a href="auth.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl -r 0-199,1000-1199 http://example.com/<a href="auth.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

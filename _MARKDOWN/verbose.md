@@ -44,7 +44,7 @@
 
 </span>
 
-</span>    $ curl -v http://example.com -o saved* Rebuilt URL to: http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> $ curl -v http://example.com -o saved\* Rebuilt URL to: http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="fc28095d02484cbb9265442690c527f5">
 
@@ -52,7 +52,7 @@
 
 </span>
 
-</span>        *   Trying 93.184.216.34...<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> \* Trying 93.184.216.34...<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="c56a047ab88c4b61adcbec97b43412a0">
 
@@ -60,7 +60,7 @@
 
 </span>
 
-</span>        * Connected to example.com (93.184.216.34) port 80 (#0)<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> \* Connected to example.com (93.184.216.34) port 80 (#0)<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="d744288b658a4f68aff8002c5717af3c">
 
@@ -98,7 +98,7 @@
 
 </span>
 
-</span>        > GET / HTTP/1.1    > Host: example.com    > User-Agent: curl/7.45.0    > Accept: */*    >
+</span> > GET / HTTP/1.1 > Host: example.com > User-Agent: curl/7.45.0 > Accept: _/_ >
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
@@ -128,7 +128,7 @@
 
 </span>
 
-</span>    < HTTP/1.1 200 OK< Accept-Ranges: bytes< Cache-Control: max-age=604800< Content-Type: text/html< Date: Sat, 19 Dec 2015 22:01:03 GMT< Etag: "359670651"< Expires: Sat, 26 Dec 2015 22:01:03 GMT< Last-Modified: Fri, 09 Aug 2013 23:54:35 GMT< Server: ECS (ewr/15BD)< Vary: Accept-Encoding< X-Cache: HIT< x-ec-custom-error: 1< Content-Length: 1270<<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> < HTTP/1.1 200 OK< Accept-Ranges: bytes< Cache-Control: max-age=604800< Content-Type: text/html< Date: Sat, 19 Dec 2015 22:01:03 GMT< Etag: "359670651"< Expires: Sat, 26 Dec 2015 22:01:03 GMT< Last-Modified: Fri, 09 Aug 2013 23:54:35 GMT< Server: ECS (ewr/15BD)< Vary: Accept-Encoding< X-Cache: HIT< x-ec-custom-error: 1< Content-Length: 1270<<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="19759e1392244c6b807b76469e361a7f">
 
@@ -156,7 +156,7 @@
 
 </span>
 
-</span>    { [1270 bytes data]<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> { [1270 bytes data]<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="39874ecf128943fea10c2b091abc02d2">
 

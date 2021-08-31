@@ -118,7 +118,7 @@
 
 </span>
 
-</span>    double size;curl_easy_getinfo(curl, CURLINFO_CONTENT_LENGTH_DOWNLOAD, &size);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> double size;curl_easy_getinfo(curl, CURLINFO_CONTENT_LENGTH_DOWNLOAD, &size);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="93beb1c59e5c45f79f030bd54db7232b">
 
@@ -126,7 +126,7 @@
 
 </span>
 
-</span>    double size;curl_easy_getinfo(curl, CURLINFO_SIZE_DOWNLOAD, &size);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> double size;curl_easy_getinfo(curl, CURLINFO_SIZE_DOWNLOAD, &size);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="d28140fbd98e4e5881a6e500382a1865">
 
@@ -410,7 +410,7 @@
 
 </span>
 
-</span>    long code;curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &code);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> long code;curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &code);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="6703898ada3340f3a7df2efd39d447dd">
 

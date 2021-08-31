@@ -98,7 +98,7 @@
 
 </span>
 
-</span>    git clone https://github.com/curl/curl.git<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> git clone https://github.com/curl/curl.git<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="3da9ee76773a4d979362af52f6a41cca">
 

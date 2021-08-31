@@ -108,7 +108,7 @@
 
 </span>
 
-</span>    curl -P - ftp://example.com/foobar.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -P - ftp://example.com/foobar.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b5b7bef07b6e4e7ca4a785da4aa20e66">
 

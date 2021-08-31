@@ -66,7 +66,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_OPENSOCKETFUNCTION, opensocket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_OPENSOCKETFUNCTION, opensocket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a0dbb93454e3462aaed373ced4a4189d">
 
@@ -78,7 +78,7 @@
 
 </span>
 
-</span>    curl_socket_t opensocket_callback(void *clientp,                                  curlsocktype purpose,                                  struct curl_sockaddr *address);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_socket_t opensocket_callback(void *clientp, curlsocktype purpose, struct curl_sockaddr *address);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="fbe25eb061494e2887f1c29674137aad">
 
@@ -218,7 +218,7 @@
 
 </span>
 
-</span>    struct curl_sockaddr {  int family;  int socktype;  int protocol;  unsigned int addrlen;  struct sockaddr addr;};<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> struct curl_sockaddr { int family; int socktype; int protocol; unsigned int addrlen; struct sockaddr addr;};<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="b5ac274226c5493f99c040ec27f1c037">
 
@@ -236,7 +236,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_CLOSEOCKETFUNCTION, closesocket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_CLOSEOCKETFUNCTION, closesocket_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="416a8dbe590546ba8abf2e09024956a8">
 
@@ -248,7 +248,7 @@
 
 </span>
 
-</span>    int closesocket_callback(void *clientp, curl_socket_t item);<a href="conversions.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> int closesocket_callback(void \*clientp, curl_socket_t item);<a href="conversions.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

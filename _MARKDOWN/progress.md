@@ -38,7 +38,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_XFERINFOFUNCTION, xfer_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_XFERINFOFUNCTION, xfer_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="390be1484615413ebf4a9b3758aea678">
 
@@ -50,7 +50,7 @@
 
 </span>
 
-</span>    int xfer_callback(void *clientp, curl_off_t dltotal, curl_off_t dlnow,                  curl_off_t ultotal, curl_off_t ulnow);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> int xfer_callback(void \*clientp, curl_off_t dltotal, curl_off_t dlnow, curl_off_t ultotal, curl_off_t ulnow);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b64dd0e55d8d48008d7de27a55c2e8fc">
 
@@ -80,7 +80,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_XFERINFODATA, custom_pointer);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_XFERINFODATA, custom_pointer);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ae87ad8a6352444da68873b3a222bd65">
 
@@ -98,7 +98,7 @@
 
 </span>
 
-</span>  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="23358a6c9c274d149d719830afe99648">
 
@@ -126,7 +126,7 @@
 
 </span>
 
-</span>  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="19ff25a41847493c992a0ccbb9eb6a29">
 

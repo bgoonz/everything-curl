@@ -34,7 +34,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_READFUNCTION, read_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_READFUNCTION, read_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="cf72be5af3db48918e8de8892ae10c84">
 
@@ -46,7 +46,7 @@
 
 </span>
 
-</span>    size_t read_callback(char *buffer, size_t size, size_t nitems, void *stream);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> size_t read_callback(char *buffer, size_t size, size_t nitems, void *stream);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0f1813af068a4124b2c45fbbede7f948">
 
@@ -72,7 +72,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(handle, CURLOPT_READDATA, custom_pointer);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(handle, CURLOPT_READDATA, custom_pointer);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="be21dc0a4a1f48e4ae28143669a59ec8">
 

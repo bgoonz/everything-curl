@@ -94,7 +94,7 @@
 
 </span>
 
-</span>    curl --ftp-method multicwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ftp-method multicwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0e6340c70b9949b3a980d2876618cb2e">
 
@@ -130,7 +130,7 @@
 
 </span>
 
-</span>    curl --ftp-method nocwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ftp-method nocwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="29810ab8b04246bda5e19de5728784f5">
 
@@ -170,7 +170,7 @@
 
 </span>
 
-</span>    curl --ftp-method singlecwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ftp-method singlecwd ftp://example.com/one/two/three/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="12277abd507943738a61217cbdf5a741">
 

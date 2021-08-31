@@ -62,7 +62,7 @@
 
 </span>
 
-</span>    git clone https://github.com/curl/curl-www.git<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> git clone https://github.com/curl/curl-www.git<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="952b6f92943b49aa98a2e312cbb299f2">
 

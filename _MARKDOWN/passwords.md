@@ -88,7 +88,7 @@
 
 </span>
 
-</span>    $ curl -u alice:12345 http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> $ curl -u alice:12345 http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="4699a94404934c8191048225eba10285">
 

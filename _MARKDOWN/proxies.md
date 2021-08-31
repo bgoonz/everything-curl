@@ -320,7 +320,7 @@
 
 </span>
 
-</span>    curl -x 192.168.0.1:8080 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -x 192.168.0.1:8080 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="1de06c3564314cb18b33cf538fff61d7">
 
@@ -376,7 +376,7 @@
 
 </span>
 
-</span>    curl -x proxy.example.com:80 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -x proxy.example.com:80 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="45eb919fd222422699739a88f589c32f">
 
@@ -444,7 +444,7 @@
 
 </span>
 
-</span>    curl -x http://proxy.example.com:80 ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -x http://proxy.example.com:80 ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="40ec1702267447feb4aac1b484968abb">
 
@@ -510,7 +510,7 @@
 
 </span>
 
-</span>    curl -p -x http://proxy.example.com:80 ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -p -x http://proxy.example.com:80 ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="97b7cd59912741598c4f6e5b2c26f7ff">
 
@@ -574,7 +574,7 @@
 
 </span>
 
-</span>    curl -x socks4://proxy.example.com http://www.example.com/​curl --socks4 proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -x socks4://proxy.example.com http://www.example.com/​curl --socks4 proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="f45517a1fc3e460992d55443893ff1af">
 
@@ -582,7 +582,7 @@
 
 </span>
 
-</span>    curl -x socks4a://proxy.example.com http://www.example.com/​curl --socks4a proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -x socks4a://proxy.example.com http://www.example.com/​curl --socks4a proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="548f16556c014c6a93105739791fd9f0">
 
@@ -590,7 +590,7 @@
 
 </span>
 
-</span>    curl -x socks5://proxy.example.com http://www.example.com/​curl --socks5 proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -x socks5://proxy.example.com http://www.example.com/​curl --socks5 proxy.example.com http://www.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="6586abd956fd4853a2215ce6b753c7fe">
 
@@ -598,7 +598,7 @@
 
 </span>
 
-</span>    curl -x socks5h://proxy.example.com http://www.example.com/​curl --socks5-hostname proxy.example.com http://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -x socks5h://proxy.example.com http://www.example.com/​curl --socks5-hostname proxy.example.com http://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="91fec2d0c5c14829be434ab4c38ebf78">
 
@@ -644,7 +644,7 @@
 
 </span>
 
-</span>    curl -U daniel:secr3t -x myproxy:80 http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -U daniel:secr3t -x myproxy:80 http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="16dbba0b50e94f19b93410440bc8b05d">
 
@@ -664,7 +664,7 @@
 
 </span>
 
-</span>    curl -U daniel:secr3t -x myproxy:80 http://example.com --proxy-ntlm<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -U daniel:secr3t -x myproxy:80 http://example.com --proxy-ntlm<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="76aea635ff3d472dbe9f48aab548ab1d">
 
@@ -676,7 +676,7 @@
 
 </span>
 
-</span>    curl -U daniel:secr3t -x myproxy:80 http://example.com --proxy-anyauth<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -U daniel:secr3t -x myproxy:80 http://example.com --proxy-anyauth<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="97b4a2efa51741079f55640b7b79829d">
 
@@ -752,7 +752,7 @@
 
 </span>
 
-</span>    http_proxy=http://proxy.example.com:80curl -v www.example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> http_proxy=http://proxy.example.com:80curl -v www.example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="606d05d3ddf741e1b79bd2ab3adc9690">
 
@@ -910,7 +910,7 @@
 
 </span>
 
-</span>    curl --proxy-header "User-Agent: magic/3000" -x proxy https://example.com/<a href="netrc.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl --proxy-header "User-Agent: magic/3000" -x proxy https://example.com/<a href="netrc.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

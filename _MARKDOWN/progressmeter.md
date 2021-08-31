@@ -538,7 +538,7 @@
 
 </span>
 
-</span>    % Total    % Received % Xferd  Average Speed          Time             Curr.                               Dload  Upload Total    Current  Left    Speed0  151M    0 38608    0     0   9406      0  4:41:43  0:00:04  4:41:39  9287<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> % Total % Received % Xferd Average Speed Time Curr. Dload Upload Total Current Left Speed0 151M 0 38608 0 0 9406 0 4:41:43 0:00:04 4:41:39 9287<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="dd7fa39f953048d0ad148fff0add1835">
 

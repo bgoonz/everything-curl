@@ -202,7 +202,7 @@
 
 </span>
 
-</span>    file://localhost/path/to/filefile://127.0.0.1/path/to/filefile:///path/to/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> file://localhost/path/to/filefile://127.0.0.1/path/to/filefile:///path/to/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="d4d498fa6d9d4bae9a1ba68d884e2e98">
 
@@ -228,7 +228,7 @@
 
 </span>
 
-</span>    file://X:/path/to/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> file://X:/path/to/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="95b2b4cb803e4418802b93e6d66dfa93">
 
@@ -266,7 +266,7 @@
 
 </span>
 
-</span>    curl ftp.funet.fi/README<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl ftp.funet.fi/README<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="f787d007ff0948359ec54ce45f53c353">
 
@@ -274,7 +274,7 @@
 
 </span>
 
-</span>    curl example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e0b35e2648a440d0bc82000a1c6d1d3e">
 
@@ -306,7 +306,7 @@
 
 </span>
 
-</span>    curl ftp://user:[email protected]/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl ftp://user:[email protected]/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e37e786a012542c8ae71b27cd769ade3">
 
@@ -334,7 +334,7 @@
 
 </span>
 
-</span>    curl http://127.0.0.1/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://127.0.0.1/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="aeece02c5e8a4ed0a62eb80d23ed0e9d">
 
@@ -342,7 +342,7 @@
 
 </span>
 
-</span>    curl http://[::1]/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://[::1]/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b1cb9c344e114ffc89b8f01cb7e50485">
 
@@ -374,7 +374,7 @@
 
 </span>
 
-</span>    curl http://example.com:8080/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://example.com:8080/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="34668ca82b764db29a4507ab954c0d5b">
 
@@ -382,7 +382,7 @@
 
 </span>
 
-</span>    curl http://127.0.0.1:8080/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl http://127.0.0.1:8080/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="d848960f3adb489b8cbd171b047739a4">
 
@@ -390,7 +390,7 @@
 
 </span>
 
-</span>    curl http://[fdea::1]:8080/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> curl http://[fdea::1]:8080/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="23975397b3584fd4bb84993e8a998b11">
 
@@ -422,7 +422,7 @@
 
 </span>
 
-</span>    curl ftp://ftp.example.com/README<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl ftp://ftp.example.com/README<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7e937dde195a4c80abc758150e5e3dc0">
 
@@ -430,7 +430,7 @@
 
 </span>
 
-</span>    curl ftp://ftp.example.com/tmp/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
+</span> curl ftp://ftp.example.com/tmp/<span class="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
 
 <span data-key="efcad8c7f1914ac4b1a1d172565afdff">
 
@@ -476,7 +476,7 @@
 
 </span>
 
-</span>    curl "ftp://example.com/foo;type=A"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl "ftp://example.com/foo;type=A"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="77fe87fdd9b34acabfe0b55305b85a74">
 
@@ -484,7 +484,7 @@
 
 </span>
 
-</span>    curl "ftp://example.com/foo;type=I"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl "ftp://example.com/foo;type=I"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0fbf031621c04288898142bc7f2868ef">
 
@@ -492,7 +492,7 @@
 
 </span>
 
-</span>    curl "ftp://example.com/foo;type=D"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl "ftp://example.com/foo;type=D"<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="a5cae4548b494021a9a15258afbdbd4d">
 
@@ -686,7 +686,7 @@
 
 </span>
 
-</span>    curl --location http://example.com/1 --next  --data sendthis http://example.com/2 --next  --head http://example.com/3<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --location http://example.com/1 --next --data sendthis http://example.com/2 --next --head http://example.com/3<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="f171bbf4e03046e2a65086cc28b3f847">
 
@@ -702,7 +702,7 @@
 
 </span>
 
-</span>    Warning: You can only select one HTTP request method! You asked for both POSTWarning: (-d, --data) and HEAD (-I, --head).<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> Warning: You can only select one HTTP request method! You asked for both POSTWarning: (-d, --data) and HEAD (-I, --head).<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="be492d1488f54623a1fabe86268d0052">
 

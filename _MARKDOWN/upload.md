@@ -94,7 +94,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_POSTFIELDS, dataptr);curl_easy_setopt(easy, CURLOPT_POSTFIELDSIZE, (long)datalength);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_POSTFIELDS, dataptr);curl_easy_setopt(easy, CURLOPT_POSTFIELDSIZE, (long)datalength);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="febc65f65a32408495d883ecd0195ffe">
 
@@ -118,7 +118,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_POST, 1L);curl_easy_setopt(easy, CURLOPT_READFUNCTION, read_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_POST, 1L);curl_easy_setopt(easy, CURLOPT_READFUNCTION, read_callback);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="797454268df34b4e9fb478e0fff94f9f">
 
@@ -174,7 +174,7 @@
 
 </span>
 
-</span>    /* Create the form */form = curl_mime_init(curl);​/* Fill in the file upload field */field = curl_mime_addpart(form);curl_mime_name(field, "sendfile");curl_mime_filedata(field, "photo.jpg");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> /_ Create the form _/form = curl_mime_init(curl);​/_ Fill in the file upload field _/field = curl_mime_addpart(form);curl_mime_name(field, "sendfile");curl_mime_filedata(field, "photo.jpg");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="293b2b28b35e4a05ae4df35b2aa5aa8c">
 
@@ -182,7 +182,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_MIMEPOST, form);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_MIMEPOST, form);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0b6e0b6c89ef4ac6be5082fc5fee776f">
 
@@ -218,7 +218,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(easy, CURLOPT_UPLOAD, 1L);curl_easy_setopt(easy, CURLOPT_INFILESIZE_LARGE, (curl_off_t) size);curl_easy_setopt(easy, CURLOPT_READFUNCTION, read_callback);curl_easy_setopt(easy, CURLOPT_URL, "https://example.com/handle/put");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(easy, CURLOPT_UPLOAD, 1L);curl_easy_setopt(easy, CURLOPT_INFILESIZE_LARGE, (curl_off_t) size);curl_easy_setopt(easy, CURLOPT_READFUNCTION, read_callback);curl_easy_setopt(easy, CURLOPT_URL, "https://example.com/handle/put");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="cb96fd5146774c14a652c911d860c35c">
 

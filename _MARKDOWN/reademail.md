@@ -42,7 +42,7 @@
 
 </span>
 
-</span>    curl pop3://mail.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl pop3://mail.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="42cfe6e3a0aa4037adc1fc0621c01851">
 
@@ -50,7 +50,7 @@
 
 </span>
 
-</span>    curl pop3://mail.example.com/1<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl pop3://mail.example.com/1<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="4bd1a0e6b3d448b6b99e77b4115b26ec">
 
@@ -58,7 +58,7 @@
 
 </span>
 
-</span>    curl --request DELE pop3://mail.example.com/1<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --request DELE pop3://mail.example.com/1<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="f0488b041aea44deb858281b22e82b21">
 
@@ -76,7 +76,7 @@
 
 </span>
 
-</span>    curl imap://server.example.com/stuff;UID=57<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl imap://server.example.com/stuff;UID=57<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="983cc58d730c41c0aa523d1860e97507">
 
@@ -84,7 +84,7 @@
 
 </span>
 
-</span>    curl imap://server.example.com/fun;MAILINDEX=57<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl imap://server.example.com/fun;MAILINDEX=57<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5c6890225eb545fe97d4bf5427097abb">
 
@@ -92,7 +92,7 @@
 
 </span>
 
-</span>    curl imap://server.example.com/boring<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl imap://server.example.com/boring<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7c2ecbc311de4b7ab49c09a04aa461f5">
 
@@ -100,7 +100,7 @@
 
 </span>
 
-</span>    curl imap://server.example.com/boring -u user:password<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl imap://server.example.com/boring -u user:password<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="ee5531d79a5b47c1843052170418e2e8">
 
@@ -138,7 +138,7 @@
 
 </span>
 
-</span>    curl pop3://mail.example.com/ --ssl-reqd<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl pop3://mail.example.com/ --ssl-reqd<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="6dafd4037c7b430ab1eed09079787311">
 
@@ -146,7 +146,7 @@
 
 </span>
 
-</span>    curl --ssl imap://mail.example.com/inbox<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ssl imap://mail.example.com/inbox<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="32d790f873864e3c9015ed7018eaa019">
 
@@ -172,7 +172,7 @@
 
 </span>
 
-</span>    curl pop3s://mail.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl pop3s://mail.example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="fa3ca72cff734475acd2a2f80440eda0">
 
@@ -180,7 +180,7 @@
 
 </span>
 
-</span>    curl imaps://mail.example.com/inbox<a href="scpsftp.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl imaps://mail.example.com/inbox<a href="scpsftp.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

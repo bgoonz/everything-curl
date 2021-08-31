@@ -144,7 +144,7 @@
 
 </span>
 
-</span>    curl smtp://mail.example.com --mail-from [email protected] --mail-rcpt[email protected] --upload-file email.txt<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl smtp://mail.example.com --mail-from [email protected] --mail-rcpt[email protected] --upload-file email.txt<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="a9dd41202e1742a3bd2f104256dafaa0">
 
@@ -152,7 +152,7 @@
 
 </span>
 
-</span>    From: John Smith <[email protected]>To: Joe Smith <[email protected]>Subject: an example.com example emailDate: Mon, 7 Nov 2016 08:45:16​Dear Joe,Welcome to this example email. What a lovely day.<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> From: John Smith <[email protected]>To: Joe Smith <[email protected]>Subject: an example.com example emailDate: Mon, 7 Nov 2016 08:45:16​Dear Joe,Welcome to this example email. What a lovely day.<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="9c2b01de3d024f68a49efd6deea1d3c5">
 
@@ -190,7 +190,7 @@
 
 </span>
 
-</span>    --ssl           Try SSL/TLS (FTP, IMAP, POP3, SMTP)--ssl-reqd      Require SSL/TLS (FTP, IMAP, POP3, SMTP)<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> --ssl Try SSL/TLS (FTP, IMAP, POP3, SMTP)--ssl-reqd Require SSL/TLS (FTP, IMAP, POP3, SMTP)<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="68ef9e5bfcbd4a65b2c33681e97963d7">
 
@@ -206,7 +206,7 @@
 
 </span>
 
-</span>    curl --ssl smtp://mail.example.com --mail-from [email protected]     --mail-rcpt [email protected] --upload-file email.txt     --user '[email protected]:your-account-password'<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ssl smtp://mail.example.com --mail-from [email protected] --mail-rcpt [email protected] --upload-file email.txt --user '[email protected]:your-account-password'<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ddcc2b7391c049e9a18c41e8254839fb">
 
@@ -222,7 +222,7 @@
 
 </span>
 
-</span>    curl --ssl-reqd smtp://mail.example.com --mail-from [email protected]     --mail-rcpt [email protected] --upload-file email.txt     --user '[email protected]:your-account-password'<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --ssl-reqd smtp://mail.example.com --mail-from [email protected] --mail-rcpt [email protected] --upload-file email.txt --user '[email protected]:your-account-password'<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="7cc9f195cf124c4fb063b348b6444662">
 
@@ -254,7 +254,7 @@
 
 </span>
 
-</span>    curl smtp://mail.example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl smtp://mail.example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="573d96b338a94b0b884c44859cb08ee3">
 
@@ -292,7 +292,7 @@
 
 </span>
 
-</span>    curl smtp://mail.example.com/client.example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl smtp://mail.example.com/client.example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="5f97e7c2ab8b433f913fa03319bb3ca4">
 

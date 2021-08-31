@@ -1,4 +1,3 @@
-
 </a>
 
 <a href="tls/sslkeylogfile.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca">
@@ -629,7 +628,7 @@
 
 </span>
 
-</span>    curl --ssl-reqd ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ssl-reqd ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="4ccc331530924ea0b684f64c4cf376ed">
 
@@ -637,7 +636,7 @@
 
 </span>
 
-</span>    curl --ssl ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --ssl ftp://ftp.example.com/file.txt<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="fed04906d2d3442a942cfc0069f9b3e0">
 
@@ -655,7 +654,7 @@
 
 </span>
 
-</span>    curl https://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl https://www.example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="cdefa3190508480a87353c9553aa2a65">
 
@@ -1183,7 +1182,7 @@
 
 </span>
 
-</span>1.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>1. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="3518ad45d3b1419c94b79c4870f0e9fa">
 
@@ -1191,7 +1190,7 @@
 
 </span>
 
-</span>2.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>2. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="9214aa4f22444ec3af7e9aa5512d9924">
 
@@ -1199,7 +1198,7 @@
 
 </span>
 
-</span>3.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>3. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="fa4b2066040b4aba8582b4544d8f8ed2">
 
@@ -1211,7 +1210,7 @@
 
 </span>
 
-</span>4.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>4. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="141a3064b42e433d9486738e3475d7e8">
 
@@ -1223,7 +1222,7 @@
 
 </span>
 
-</span>5.  <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span>5. <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="aa63f92d44a745439e9c74715f5ecbf1">
 
@@ -1277,7 +1276,7 @@
 
 </span>
 
-</span>    curl --pinnedpubkey "sha256//83d34tasd3rt..." https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --pinnedpubkey "sha256//83d34tasd3rt..." https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e658f8c1aee84184a7383a990485fb82">
 
@@ -1325,7 +1324,7 @@
 
 </span>
 
-</span>    curl --cert-status https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --cert-status https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="e64dcd52dbf14ad9a66b2e178b5ad320">
 
@@ -1391,7 +1390,7 @@
 
 </span>
 
-</span>    curl --cert mycert:mypassword https://example.comcurl --cert mycert:mypassword --key mykey https://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --cert mycert:mypassword https://example.comcurl --cert mycert:mypassword --key mykey https://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="bc2de9ea31144847bedca5c540e92671">
 
@@ -1399,7 +1398,7 @@
 
 </span>
 
-</span>    curl --cert mycert:mypassword --cert-type PEM \     --key mykey --key-type PEM https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --cert mycert:mypassword --cert-type PEM \ --key mykey --key-type PEM https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="159910f06e8049c084096b3df64183e5">
 
@@ -1425,7 +1424,7 @@
 
 </span>
 
-</span>    curl --tlsuser daniel --tlspassword secret https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --tlsuser daniel --tlspassword secret https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="229b74626aea447780f2ac55adce03f0">
 

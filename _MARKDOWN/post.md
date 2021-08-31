@@ -146,7 +146,7 @@
 
 </span>
 
-</span>    curl -d 'name=admin&shoesize=12' http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -d 'name=admin&shoesize=12' http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="f1f4431d9efb47febb722cf7a46f6a42">
 
@@ -158,7 +158,7 @@
 
 </span>
 
-</span>    curl -d name=admin -d shoesize=12 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -d name=admin -d shoesize=12 http://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="0b1f2cc6ff444e8991ba92a438025c24">
 
@@ -166,7 +166,7 @@
 
 </span>
 
-</span>    curl -d @filename http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -d @filename http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="84a3d51be06b45a589718c4b6dc6b20e">
 
@@ -208,7 +208,7 @@
 
 </span>
 
-</span>    curl -d '{json}' -H 'Content-Type: application/json' https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -d '{json}' -H 'Content-Type: application/json' https://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="86f57947a3364c998bcdb10bae2bf1dc">
 
@@ -234,7 +234,7 @@
 
 </span>
 
-</span>    curl --data-binary @filename http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --data-binary @filename http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="c2471ee0b05a4b8989e3a54b68599972">
 
@@ -370,7 +370,7 @@
 
 </span>
 
-</span>    curl --data-urlencode "name=John Doe (Junior)" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --data-urlencode "name=John Doe (Junior)" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7458bb483a1344498e7f6b8ca2608dcd">
 
@@ -378,7 +378,7 @@
 
 </span>
 
-</span>    name=John%20Doe%20%28Junior%29<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> name=John%20Doe%20%28Junior%29<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5eeb64191b1647abbe4cfbe0e74afc07">
 
@@ -394,7 +394,7 @@
 
 </span>
 
-</span>    curl --data-urlencode [email protected] http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --data-urlencode [email protected] http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="888303b30c4c4e04b217fa46dd35c658">
 
@@ -406,7 +406,7 @@
 
 </span>
 
-</span>    curl --data-urlencode "=user name=John Doe (Junior)" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --data-urlencode "=user name=John Doe (Junior)" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="56ac3f8819f44e9da99559ec62727bff">
 
@@ -528,7 +528,7 @@
 
 </span>
 
-</span>    curl -H Expect: -d "payload to send" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -H Expect: -d "payload to send" http://example.com<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="2b6ac4b1e06e4d729af355f0ed0dbed3">
 
@@ -570,7 +570,7 @@
 
 </span>
 
-</span>    curl -H "Transfer-Encoding: chunked" -d "payload to send" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -H "Transfer-Encoding: chunked" -d "payload to send" http://example.com<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="ce3ed03100b546d9b4064dc40600b640">
 

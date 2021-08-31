@@ -150,7 +150,7 @@
 
 </span>
 
-</span>    CURLU *h = curl_url();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> CURLU \*h = curl_url();<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="010ae425e22241489c0d0254c23a820c">
 
@@ -158,7 +158,7 @@
 
 </span>
 
-</span>    curl_url_cleanup(h);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_url_cleanup(h);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="415ff41f472a4f429f0724b5e2e273b7">
 
@@ -166,7 +166,7 @@
 
 </span>
 
-</span>    CURLU *nh = curl_url_dup(h);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> CURLU \*nh = curl_url_dup(h);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="f465cecbd34644ea9993f7a4d05d0603">
 
@@ -174,7 +174,7 @@
 
 </span>
 
-</span>    rc = curl_url_set(h, CURLUPART_URL, "https://example.com:449/foo/bar?name=moo", 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> rc = curl_url_set(h, CURLUPART_URL, "https://example.com:449/foo/bar?name=moo", 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="46b26c9b80c948038481ef74982b7b76">
 
@@ -212,7 +212,7 @@
 
 </span>
 
-</span>    rc = curl_url_set(h, CURLUPART_URL, "../test?another", 0);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> rc = curl_url_set(h, CURLUPART_URL, "../test?another", 0);<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="231641af1c974fa595d94344588b4599">
 
@@ -234,7 +234,7 @@
 
 </span>
 
-</span>    char *url;rc = curl_url_get(h, CURLUPART_URL, &url, 0);curl_free(url);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> char \*url;rc = curl_url_get(h, CURLUPART_URL, &url, 0);curl_free(url);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="57fbc9d607984d618befeae142cebb02">
 
@@ -262,7 +262,7 @@
 
 </span>
 
-</span>    rc = curl_url_get(h, CURLUPART_HOST, &host, 0);rc = curl_url_get(h, CURLUPART_SCHEME, &scheme, 0);rc = curl_url_get(h, CURLUPART_USER, &user, 0);rc = curl_url_get(h, CURLUPART_PASSWORD, &password, 0);rc = curl_url_get(h, CURLUPART_PORT, &port, 0);rc = curl_url_get(h, CURLUPART_PATH, &path, 0);rc = curl_url_get(h, CURLUPART_QUERY, &query, 0);rc = curl_url_get(h, CURLUPART_FRAGMENT, &fragment, 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> rc = curl_url_get(h, CURLUPART_HOST, &host, 0);rc = curl_url_get(h, CURLUPART_SCHEME, &scheme, 0);rc = curl_url_get(h, CURLUPART_USER, &user, 0);rc = curl_url_get(h, CURLUPART_PASSWORD, &password, 0);rc = curl_url_get(h, CURLUPART_PORT, &port, 0);rc = curl_url_get(h, CURLUPART_PATH, &path, 0);rc = curl_url_get(h, CURLUPART_QUERY, &query, 0);rc = curl_url_get(h, CURLUPART_FRAGMENT, &fragment, 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="90cb4881ed194d5299412b51867d3292">
 
@@ -308,7 +308,7 @@
 
 </span>
 
-</span>    rc = curl_url_set(urlp, CURLUPART_HOST, "www.example.com", 0);rc = curl_url_set(urlp, CURLUPART_SCHEME, "https", 0);rc = curl_url_set(urlp, CURLUPART_USER, "john", 0);rc = curl_url_set(urlp, CURLUPART_PASSWORD, "doe", 0);rc = curl_url_set(urlp, CURLUPART_PORT, "443", 0);rc = curl_url_set(urlp, CURLUPART_PATH, "/index.html", 0);rc = curl_url_set(urlp, CURLUPART_QUERY, "name=john", 0);rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "anchor", 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> rc = curl_url_set(urlp, CURLUPART_HOST, "www.example.com", 0);rc = curl_url_set(urlp, CURLUPART_SCHEME, "https", 0);rc = curl_url_set(urlp, CURLUPART_USER, "john", 0);rc = curl_url_set(urlp, CURLUPART_PASSWORD, "doe", 0);rc = curl_url_set(urlp, CURLUPART_PORT, "443", 0);rc = curl_url_set(urlp, CURLUPART_PATH, "/index.html", 0);rc = curl_url_set(urlp, CURLUPART_QUERY, "name=john", 0);rc = curl_url_set(urlp, CURLUPART_FRAGMENT, "anchor", 0);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="28cf6742152f4437a5f0d6fe4ea1287b">
 
@@ -362,7 +362,7 @@
 
 </span>
 
-</span>    rc = curl_url_set(urlp, CURLUPART_QUERY, "hat=1", CURLU_APPENDQUERY);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> rc = curl_url_set(urlp, CURLUPART_QUERY, "hat=1", CURLU_APPENDQUERY);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ac513f77af0f458cac9b870e3440fe33">
 
@@ -392,7 +392,7 @@
 
 </span>
 
-</span>    rc = curl_url_set(urlp, CURLUPART_QUERY, "candy=M&M", CURLU_APPENDQUERY | CURLU_URLENCODE);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> rc = curl_url_set(urlp, CURLUPART_QUERY, "candy=M&M", CURLU_APPENDQUERY | CURLU_URLENCODE);<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="db1b5b9399284edcb42d53c78e9bb5ef">
 

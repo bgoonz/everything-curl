@@ -134,7 +134,7 @@
 
 </span>
 
-</span>    machine example.comlogin danielpassword qwerty<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> machine example.comlogin danielpassword qwerty<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="3e93d1768ec24258b619d0ad3bc1c599">
 

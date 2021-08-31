@@ -32,7 +32,7 @@
 
 </span>
 
-</span>    curl --version<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --version<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5845974d86784eed9c09b652fd91f2de">
 
@@ -40,7 +40,7 @@
 
 </span>
 
-</span>    curl -V<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -V<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="5d9fc31dada64ff7b8a8ea0098b4cafe">
 
@@ -58,7 +58,7 @@
 
 </span>
 
-</span>    curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 OpenSSL/1.1.1g zlib/1.2.11 brotli/1.0.7 libidn2/2.3.0 libpsl/0.21.0 (+libidn2/2.3.0) libssh2/1.8.0 nghttp2/1.41.0 librtmp/2.3Release-Date: 2020-01-08Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp scp sftp smb smbs smtp smtps telnet tftp Features: AsynchDNS brotli GSS-API HTTP2 HTTPS-proxy IDN IPv6 Kerberos Largefile libz NTLM NTLM_WB PSL SPNEGO SSL TLS-SRP UnixSockets<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 OpenSSL/1.1.1g zlib/1.2.11 brotli/1.0.7 libidn2/2.3.0 libpsl/0.21.0 (+libidn2/2.3.0) libssh2/1.8.0 nghttp2/1.41.0 librtmp/2.3Release-Date: 2020-01-08Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp scp sftp smb smbs smtp smtps telnet tftp Features: AsynchDNS brotli GSS-API HTTP2 HTTPS-proxy IDN IPv6 Kerberos Largefile libz NTLM NTLM_WB PSL SPNEGO SSL TLS-SRP UnixSockets<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="7747727638c243f49214b9d755d1d5ab">
 
@@ -66,7 +66,7 @@
 
 </span>
 
-</span>    curl 7.55.1 (Windows) libcurl/7.55.1 WinSSLRelease-Date: [unreleased]Protocols: dict file ftp ftps http https imap imaps pop3 pop3s smtp smtps telnet tftpFeatures: AsynchDNS IPv6 Largefile SSPI Kerberos SPNEGO NTLM SSL<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl 7.55.1 (Windows) libcurl/7.55.1 WinSSLRelease-Date: [unreleased]Protocols: dict file ftp ftps http https imap imaps pop3 pop3s smtp smtps telnet tftpFeatures: AsynchDNS IPv6 Largefile SSPI Kerberos SPNEGO NTLM SSL<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b2501b491def4ae5933c57686aecbefe">
 

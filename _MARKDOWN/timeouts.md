@@ -94,7 +94,7 @@
 
 </span>
 
-</span>    curl --max-time 5.5 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl --max-time 5.5 https://example.com/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="bdb0545a8a5645cbaf5f3fd3fc7c9eec">
 
@@ -142,7 +142,7 @@
 
 </span>
 
-</span>    curl --connect-timeout 2.37 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --connect-timeout 2.37 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="1557047690134a87988150d8afeecbc6">
 
@@ -180,7 +180,7 @@
 
 </span>
 
-</span>    curl --speed-time 15 --speed-limit 1000 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl --speed-time 15 --speed-limit 1000 https://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="26f7a19d7e894073ac43f5ba8c43e178">
 

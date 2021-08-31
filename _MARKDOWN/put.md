@@ -130,7 +130,7 @@
 
 </span>
 
-</span>    curl -T localfile http://example.com/new/resource/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -T localfile http://example.com/new/resource/file<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="bc111973963f43c6bd95aedcf74ebee4">
 
@@ -142,7 +142,7 @@
 
 </span>
 
-</span>    curl -d "data to PUT" -X PUT http://example.com/new/resource/file<a href="requests.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl -d "data to PUT" -X PUT http://example.com/new/resource/file<a href="requests.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 

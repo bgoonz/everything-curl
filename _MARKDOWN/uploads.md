@@ -226,7 +226,7 @@
 
 </span>
 
-</span>    curl -T uploadthis http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
+</span> curl -T uploadthis http://example.com/<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1">
 
 <span data-key="521189dcfa23475b895ec0cc021e7f6a">
 
@@ -244,7 +244,7 @@
 
 </span>
 
-</span>    curl -T uploadthis ftp://example.com/this/directory/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -T uploadthis ftp://example.com/this/directory/<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="486b189feb3b4e3884b2d1c95ce077d8">
 
@@ -252,7 +252,7 @@
 
 </span>
 
-</span>    curl -T uploadthis ftp://example.com/this/directory/remotename<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -T uploadthis ftp://example.com/this/directory/remotename<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="8c58e99800b04ad68de6fef9bde1f169">
 
@@ -296,7 +296,7 @@
 
 </span>
 
-</span>    curl -T mail smtp://mail.example.com/ --mail-from [email protected]<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl -T mail smtp://mail.example.com/ --mail-from [email protected]<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="b0daee0ce9fe40a78a499f082ac11570">
 

@@ -84,7 +84,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_RANGE, "0-199");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(curl, CURLOPT_RANGE, "0-199");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ec5b7bb8b92b4084807ded49c27ddaae">
 
@@ -92,7 +92,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_RANGE, "200-");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+</span> curl_easy_setopt(curl, CURLOPT_RANGE, "200-");<span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
 
 <span data-key="ac99a5f9b23447ab9fd24ff124bd1d60">
 
@@ -104,7 +104,7 @@
 
 </span>
 
-</span>    curl_easy_setopt(curl, CURLOPT_RANGE, "0-199,1000-199");<a href="versions.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
+</span> curl_easy_setopt(curl, CURLOPT_RANGE, "0-199,1000-199");<a href="versions.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674">
 
 </a>
 
