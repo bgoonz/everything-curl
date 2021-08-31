@@ -353,8 +353,8 @@
 <p><a href="/how-to-read" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
 <p><a href="/bindings" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="/internals" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="/bookindex" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a></p>
-<h1 id="index"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Index</span></h1>
+<p><a href="/bookindex" class="navButton-94f2579c--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
+<h1 id="index"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1"></span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="98acd8fbf5384a59ae571aaafe6a8f6a"><span data-offset-key="98acd8fbf5384a59ae571aaafe6a8f6a:0">%</span></span></span></p>
 <li><p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="b410b5eb34ce4ee6880e2b67071233c4"><span data-offset-key="b410b5eb34ce4ee6880e2b67071233c4:0">%{json}: </span></span><a href="/usingcurl/verbose/writeout#available---write-out-variables" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="9589fbcb142e4e78866bc2e786836353"><span data-offset-key="9589fbcb142e4e78866bc2e786836353:0">Available –write-out variables</span></span></a><span data-key="7e4330cdb2084496990d32bcbe7a2604"><span data-offset-key="7e4330cdb2084496990d32bcbe7a2604:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="226a0f08442a4aa48ead90ac2dae6d9a"><span data-offset-key="226a0f08442a4aa48ead90ac2dae6d9a:0"><strong>.</strong></span></span></span></p></li>
@@ -724,7 +724,7 @@
 <p><a href="boringssl.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">BoringSSL</span></a></p>
 <p><a href="../../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="../../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a></p>
+<p><a href="../../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
 <h1 id="boringssl"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">BoringSSL</span></h1>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="1cb5d488c24e4c878b3e43a58718ef28"><span data-offset-key="1cb5d488c24e4c878b3e43a58718ef28:0">build boringssl</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="717d2fad518c40ba98cb0620d7e1dbab"><span data-offset-key="717d2fad518c40ba98cb0620d7e1dbab:0">$HOME/src is where I put the code in this example. You can pick wherever you like.</span></span></span></p>
@@ -2350,7 +2350,7 @@
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="86d79b197db24a7e81a23f5c6535f7fd"><span data-offset-key="86d79b197db24a7e81a23f5c6535f7fd:0">A casual overview of some of the most popular libcurl bindings and how similar they are to the libcurl C API.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="9d92d7fdacd44fd0a652bc0a520e7ec4"><span data-offset-key="9d92d7fdacd44fd0a652bc0a520e7ec4:0">12. </span></span><a href="internals.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="9045fef297e1486e806c5c2ddbe4f1ed"><span data-offset-key="9045fef297e1486e806c5c2ddbe4f1ed:0">libcurl internals</span></span></a><span data-key="e52c60d879894ed9901d95c2f46259c1"><span data-offset-key="e52c60d879894ed9901d95c2f46259c1:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="20f5c57d6c1e4d75b336a2bca164fe34"><span data-offset-key="20f5c57d6c1e4d75b336a2bca164fe34:0">Under the hood it works like this…</span></span></span></p>
-<p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="f222516a45e647ca950b619354a861dd"><span data-offset-key="f222516a45e647ca950b619354a861dd:0">13. </span></span><a href="bookindex.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="7442013d52164795a3a4c2714d1438f1"><span data-offset-key="7442013d52164795a3a4c2714d1438f1:0">Index</span></span></a><span data-key="a08326e2df894d28875a7f5159130e1e"><span data-offset-key="a08326e2df894d28875a7f5159130e1e:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
+<p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="f222516a45e647ca950b619354a861dd"><span data-offset-key="f222516a45e647ca950b619354a861dd:0">13. </span></span><a href="bookindex.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="7442013d52164795a3a4c2714d1438f1"><span data-offset-key="7442013d52164795a3a4c2714d1438f1:0"></span></span></a><span data-key="a08326e2df894d28875a7f5159130e1e"><span data-offset-key="a08326e2df894d28875a7f5159130e1e:0"><span data-slate-zero-width="z">​</span></span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="a46002005a9d41e586bcbd6237d81c3c"><span data-offset-key="a46002005a9d41e586bcbd6237d81c3c:0">The index.</span></span></span></p>
 <p><a href="index.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Introduction</span></p>
@@ -2380,7 +2380,7 @@
 <p><a href="how-to-read.html#12-libcurl-internals" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">12. libcurl internals</span></span></p>
 <p><a href="how-to-read.html#13-index" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">13. Index</span></span></p>
+<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">13. </span></span></p>
 <p><a href="http/basics.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Protocol basics</span></a></p>
 <p><a href="http/response.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Responses</span></a></p>
 <p><a href="http/auth.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Authentication</span></a></p>
@@ -2540,7 +2540,7 @@
 <pre><code>result = conn-&gt;handler-&gt;disconnect(conn, dead_connection);</code></pre>
 <p><a href="bindings.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
 <p><a href="bookindex.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Index</span></p>
+<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1"></span></p>
 <p><a href="internals.html#easy-handle-and-connections" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">Easy handle and connections</span></span></p>
 <p><a href="internals.html#everything-is-multi" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a></p>
@@ -5351,7 +5351,7 @@
 <p><a href="usingcurl/copyas.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Copy as curl</span></a></p>
 <p><a href="bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a></p>
+<p><a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
 <h1 id="using-curl"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Using curl</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="5a56a39d19fd49049d0fd131c38517ca"><span data-offset-key="5a56a39d19fd49049d0fd131c38517ca:0">Previous chapters have described some basic details on what curl is and something about the basic command lines. You use command-line options and you pass on URLs to work with.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="64c3a95387eb434ab0f736d6f533d811"><span data-offset-key="64c3a95387eb434ab0f736d6f533d811:0">In this chapter, we are going to dive deeper into a variety of different concepts of what curl can do and how to tell curl to use these features. You should consider all these features as different tools that are here to help you do your file transfer tasks as conveniently as possible.</span></span></span></p>
@@ -5359,9 +5359,9 @@
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="ad5788aa3caa43eb871f8e0b1336b0bb"><span data-offset-key="ad5788aa3caa43eb871f8e0b1336b0bb:0">curl supports or can be made to support (if built so) the following transfer protocols.</span></span></span></p>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="3e636d3222644f0fa6880e4ae3b04a9e"><span data-offset-key="3e636d3222644f0fa6880e4ae3b04a9e:0">DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SBMS, SMTP, SMTPS, TELNET and TFTP</span></span></span></p>
 <p><a href="cmdline/progressmeter.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardPrevious-56a5e674"></a></p>
-<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Progress meter</span></p>
-<p><a href="usingcurl/verbose.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Verbose</span></p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="easyhandle.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Easy handle</span></a></p>
 <p><a href="connectionreuse.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Connection reuse</span></a></p>
 <p><a href="cleanup.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Cleanup</span></a></p>
@@ -5652,7 +5652,7 @@
 <p><a href="macos.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">macOS</span></a></p>
 <p><a href="../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a></p>
+<p><a href="../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
 <h1 id="windows"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Windows</span></h1>
 <p><span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="372c8b5e4ecc439f958e82b91bc75e3b"><span data-offset-key="372c8b5e4ecc439f958e82b91bc75e3b:0">Windows 10 comes with the curl tool bundled with the operating system since version 1804. If you have an older Windows version or just want to upgrade to the latest version shipped by the curl project, download the latest official curl release for Windows from </span></span><a href="https://curl.se/windows/" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="619a64aba40c41aa81a6ee4ed1e41145"><span data-offset-key="619a64aba40c41aa81a6ee4ed1e41145:0">curl.se/windows</span></span></a><span data-key="741e4ef2ad1047e2a8be586dc923e93b"><span data-offset-key="741e4ef2ad1047e2a8be586dc923e93b:0"> and install that.</span></span></span></p>
 <p><span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="7aabdac2033c4633933aa03481051abd"><span data-offset-key="7aabdac2033c4633933aa03481051abd:0">Get libcurl for Windows</span></span></span></p>
@@ -5749,7 +5749,7 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">HTTP with libcurl</span></p>
 <p><a href="../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a></p>
+<p><a href="../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
 <p><a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=curl-1" class="reset-3c756112--trademark-a8da4b94"></a></p>
 <p><span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40">Powered by <strong>GitBook</strong></span></p>
 <h1 id="write-out"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Write out</span></h1>
@@ -5815,8 +5815,8 @@
 <p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Previous</span></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Trace options</span></p>
 <p><a href="../version.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
-<p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Next</span></p>
+<p></p>
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Version</span></p>
-<p><img src="https://avatars.githubusercontent.com/u/66654881?v=4" class="image-67b14f24--avatar-1c1d03ec" /></p>
-<p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 7 months ago</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textUIFamily-5ebd8e40">Export as PDF</span></p>
+<p></p>
+<p></p>
+<p></p>

@@ -1,3 +1,4 @@
+
 <a href="index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a>
 
 <img src="https://gblobscdn.gitbook.com/orgs%2F-LxuH0qSm4xO9nWfEBlB%2Favatar.png?alt=media" class="image-67b14f24--avatar-1c1d03ec" />
@@ -38,11 +39,11 @@
 
 <a href="internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a>
 
-<a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Index</span></a>
+<a href="bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a>
 
 <a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=curl-1" class="reset-3c756112--trademark-a8da4b94"></a>
 
-<span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40">Powered by **GitBook**</span>
+<span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40"></span>
 
 # <span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">How to read this book</span>
 
@@ -100,7 +101,7 @@
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="20f5c57d6c1e4d75b336a2bca164fe34"><span data-offset-key="20f5c57d6c1e4d75b336a2bca164fe34:0">Under the hood it works like this…</span></span></span>
 
-<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="f222516a45e647ca950b619354a861dd"><span data-offset-key="f222516a45e647ca950b619354a861dd:0">13. </span></span><a href="bookindex.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="7442013d52164795a3a4c2714d1438f1"><span data-offset-key="7442013d52164795a3a4c2714d1438f1:0">Index</span></span></a><span data-key="a08326e2df894d28875a7f5159130e1e"><span data-offset-key="a08326e2df894d28875a7f5159130e1e:0"><span data-slate-zero-width="z">​</span></span></span></span>
+<span class="text-4505230f--HeadingH700-04e1a2a3--textContentFamily-49a318e1"><span data-key="f222516a45e647ca950b619354a861dd"><span data-offset-key="f222516a45e647ca950b619354a861dd:0">13. </span></span><a href="bookindex.html" class="link-a079aa82--primary-53a25e66--link-faf6c434"><span data-key="7442013d52164795a3a4c2714d1438f1"><span data-offset-key="7442013d52164795a3a4c2714d1438f1:0"></span></span></a><span data-key="a08326e2df894d28875a7f5159130e1e"><span data-offset-key="a08326e2df894d28875a7f5159130e1e:0"><span data-slate-zero-width="z">​</span></span></span></span>
 
 <span class="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1"><span data-key="a46002005a9d41e586bcbd6237d81c3c"><span data-offset-key="a46002005a9d41e586bcbd6237d81c3c:0">The index.</span></span></span>
 
@@ -120,7 +121,7 @@
 
 <span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 2 years ago</span>
 
-<span class="text-4505230f--UIH300-2063425d--textUIFamily-5ebd8e40">Export as PDF</span>
+<span class="text-4505230f--UIH300-2063425d--textUIFamily-5ebd8e40"></span>
 
 <span class="text-4505230f--InfoH100-1e92e1d1--textContentFamily-49a318e1">Contents</span>
 
@@ -174,4 +175,4 @@
 
 <a href="how-to-read.html#13-index" class="reset-3c756112--menuItem-aa02f6ec--menuItemLight-757d5235--menuItemInline-173bdf97--pageTocItem-f4427024"></a>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">13. Index</span></span>
+<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1"><span class="text-4505230f--UIH200-50ead35f--textContentFamily-49a318e1">13. </span></span>
