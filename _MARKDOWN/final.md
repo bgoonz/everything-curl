@@ -5713,8 +5713,8 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Read data</span></p>
 <p><span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 2 years ago</span></p>
 <p><a href="../../index.html" class="link-a079aa82--primary-53a25e66--logoLink-10d08504"></a></p>
-<p><img src="https://gblobscdn.gitbook.com/orgs%2F-LxuH0qSm4xO9nWfEBlB%2Favatar.png?alt=media" class="image-67b14f24--avatar-1c1d03ec" /></p>
-<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1--spaceNameText-677c2969">Everything curl</span></p>
+<p></p>
+<p></p>
 <p><a href="../../index.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Introduction</span></a></p>
 <p><a href="../../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The cURL project</span></p>
