@@ -14,21 +14,11 @@
 
 <a href="../how-to-read.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">How to read this book</span></a>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The cURL project</span>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Get curl</span>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Open Source</span>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The source code</span>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Network and protocols</span>
 
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Command line basics</span>
-
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Using curl</span>
-
-<span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Verbose</span>
 
 <a href="verbose/trace.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Trace options</span></a>
 
@@ -80,9 +70,9 @@
 
 <a href="../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a>
 
-<a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=curl-1" class="reset-3c756112--trademark-a8da4b94"></a>
 
-<span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40"></span>
+
+
 
 # <span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Verbose</span>
 
@@ -150,15 +140,14 @@
 
 <a href="verbose/trace.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a>
 
-<span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Next</span>
 
 <span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Trace options</span>
 
-<img src="https://avatars.githubusercontent.com/u/66654881?v=4" class="image-67b14f24--avatar-1c1d03ec" />
+
 
 <span class="text-4505230f--TextH200-a3425406--textContentFamily-49a318e1">Last updated 1 year ago</span>
 
-<span class="text-4505230f--UIH300-2063425d--textUIFamily-5ebd8e40"></span>
+
 
 <span class="text-4505230f--InfoH100-1e92e1d1--textContentFamily-49a318e1">Contents</span>
 

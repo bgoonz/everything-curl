@@ -5723,9 +5723,9 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">The source code</span></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Network and protocols</span></p>
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Command line basics</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Using curl</span></p>
-<p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Verbose</span></p>
-<p><a href="trace.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Trace options</span></a></p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="writeout.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca--navButtonOpened-6a88552e"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Write out</span></a></p>
 <p><a href="../version.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Version</span></a></p>
 <p><a href="../persist.html" class="navButton-94f2579c--pageItemWithChildrenNested-2c5d8183--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Persistent connections</span></a></p>
@@ -5749,8 +5749,8 @@
 <p><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">HTTP with libcurl</span></p>
 <p><a href="../../bindings.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">Bindings</span></a></p>
 <p><a href="../../internals.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f">libcurl internals</span></a></p>
-<p><a href="../../bookindex.html" class="navButton-94f2579c--navButtonClickable-161b88ca"><span class="text-4505230f--UIH300-2063425d--textContentFamily-49a318e1--navButtonLabel-14a4968f"></span></a></p>
-<p><a href="https://www.gitbook.com/?utm_source=content&amp;utm_medium=trademark&amp;utm_campaign=curl-1" class="reset-3c756112--trademark-a8da4b94"></a></p>
+<p></p>
+<p></p>
 <p><span class="text-4505230f--TextH200-a3425406--textUIFamily-5ebd8e40">Powered by <strong>GitBook</strong></span></p>
 <h1 id="write-out"><span class="text-4505230f--DisplayH900-bfb998fa--textContentFamily-49a318e1">Write out</span></h1>
 <p><span class="text-4505230f--UIH300-2063425d--textUIFamily-5ebd8e40--text-8ee2c8b2"></span></p>
@@ -5816,7 +5816,7 @@
 <p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Trace options</span></p>
 <p><a href="../version.html" class="reset-3c756112--card-6570f064--whiteCard-fff091a4--cardNext-19241c42"></a></p>
 <p></p>
-<p><span class="text-4505230f--UIH400-4e41e82a--textContentFamily-49a318e1">Version</span></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
